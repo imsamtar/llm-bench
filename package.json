@@ -3,6 +3,12 @@
   "module": "index.ts",
   "type": "module",
   "private": true,
+  "scripts": {
+    "start": "bun index.ts",
+    "list": "bun index.ts list",
+    "verify": "bun scripts/verify-tasks.ts",
+    "test": "bun test"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
