@@ -305,3 +305,309 @@ timestamp,iso,model_id,base_url,category,task_id,title,difficulty,max_score,scor
 2026-09-03T07-53-41,2026-09-03T07:53:41.849Z,Qwen3.6-35B-A3B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0227-zigzag-conversion,Zigzag conversion,2,1,1,1,true,PASS,259559
 2026-09-03T07-53-41,2026-09-03T07:53:41.849Z,Qwen3.6-35B-A3B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0190-can-place-flowers,Can place flowers,2,1,1,1,true,PASS,224132
 2026-09-03T07-53-41,2026-09-03T07:53:41.849Z,Qwen3.6-35B-A3B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0154-decode-ways,Decode ways,3,1,1,1,true,PASS,289180
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0132-count-even-numbers,Count even numbers,1,1,1,1,true,PASS,48499
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0164-roman-to-integer,Roman to integer,2,1,1,1,true,PASS,88306
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0112-count-palindromic-substrings,Count palindromic substrings,2,1,1,1,true,PASS,95489
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,knowledge,task-0024-np-completeness-precise-definition,NP-Completeness Precise Definition,2,1,1,1,true,PASS,56137
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0062-freeform-handshakes,Freeform handshakes,1,1,1,1,true,PASS,12137
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0280-token-scanner,Token scanner,2,1,1,1,true,PASS,83572
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0139-sum-of-squares,Sum of squares,1,1,1,1,true,PASS,15944
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0147-merge-intervals,Merge intervals,2,1,1,1,true,PASS,143543
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0282-lru-cache-operator,LRU cache operator,2,1,1,1,true,PASS,117557
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0122-rotate-array-right-by-k,Rotate array right by k,2,1,0.375,0.375,false,PARTIAL,102564
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0070-freeform-probability-monty-variant,Freeform probability Monty variant,3,1,1,1,true,PASS,47120
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,code-reading,task-0002-string-slice-indices,String slice indices,1,1,1,1,true,PASS,24867
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0138-count-negatives,Count negatives,1,1,1,1,true,PASS,23636
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0268-vending-machine-change,Vending machine change,1,1,0,0,false,FAIL,334570
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0075-sum-of-digits,Sum of digits,1,1,1,1,true,PASS,53060
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0146-prime-check,Prime check,1,1,1,1,true,PASS,85036
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0187-basic-calculator-ii,Basic calculator II,3,1,0,0,false,FAIL,1030787
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0247-kth-largest-element-in-array,Kth largest element in array,2,1,0,0,false,FAIL,1010877
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0224-number-of-good-pairs,Number of good pairs,1,1,1,1,true,PASS,42518
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0257-burst-balloons,Burst balloons,3,1,1,1,true,PASS,134128
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0299-debug-a-memory-leak-in-a-daemon,Debug a memory leak in a daemon,2,1,1,1,true,PASS,1029664
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0220-count-odd-numbers-in-an-interval,Count odd numbers in an interval,1,1,1,1,true,PASS,88500
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0295-merge-latest-fix-into-feature-branch,Merge latest fix into feature branch,1,1,1,1,true,PASS,1039391
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0115-unique-paths-on-grid,Unique paths on grid,2,1,0,0,false,FAIL,1033091
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0217-duplicate-zeros,Duplicate zeros,1,1,1,1,true,PASS,313149
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0073-count-primes-up-to-n,Count primes up to n,1,1,1,1,true,PASS,614349
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0278-token-bucket-rate-limiter,Token bucket rate limiter,2,1,0,0,false,FAIL,1039429
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,code-reading,task-0017-recursion-unwinding-order,Recursion unwinding order,3,1,0,0,false,FAIL,32160
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0298-zero-downtime-service-migration,Zero-downtime service migration,2,1,1,1,true,PASS,333675
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0227-smallest-even-multiple,Smallest even multiple,1,1,1,1,true,PASS,24922
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0083-merge-intervals,Merge intervals,2,1,1,1,true,PASS,77159
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,code-reading,task-0020-functional-composition-evaluation-order,Functional composition evaluation order,3,1,1,1,true,PASS,45837
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0249-push-dominoes,Push dominoes,2,1,0,0,false,FAIL,997534
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0087-jump-game,Jump game,2,1,1,1,true,PASS,60263
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0067-freeform-venn-counting,Freeform Venn counting,2,1,1,1,true,PASS,10918
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0186-number-of-islands,Number of islands,3,1,0,0,false,FAIL,1004764
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0145-absolute-value,Absolute value,1,1,1,1,true,PASS,28466
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0180-word-break,Word break,3,1,0,0,false,FAIL,1009692
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0175-product-of-array-except-self,Product of array except self,3,1,1,1,true,PASS,168455
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0184-first-missing-positive,First missing positive,3,1,1,1,true,PASS,364239
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0104-trapping-rain-water,Trapping rain water,2,1,1,1,true,PASS,78881
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,knowledge,task-0022-tcp-vs-udp-delivery-guarantee,TCP vs UDP Delivery Guarantee,1,1,0,0,false,FAIL,77569
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0119-longest-mountain,Longest mountain,2,1,0,0,false,FAIL,1036818
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0093-daily-temperatures,Daily temperatures,2,1,1,1,true,PASS,51550
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0178-edit-distance,Edit distance,3,1,1,1,true,PASS,95791
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,code-reading,task-0015-nested-closure-captures-final-value,Nested closure captures final value,3,1,0,0,false,FAIL,20148
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0158-longest-common-prefix,Longest common prefix,2,1,1,1,true,PASS,268247
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0114-decode-ways,Decode ways,3,1,1,1,true,PASS,442369
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0293-cheapest-flight-within-k-stops,Cheapest flight within k stops,3,1,1,1,true,PASS,151161
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0173-guess-number-off-by-one,Guess number (off by one),2,1,1,1,true,PASS,26118
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0264-merge-k-sorted-lists,Merge k sorted lists,3,1,1,1,true,PASS,364020
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0246-largest-number-formed-by-joining,Largest number formed by joining,2,1,1,1,true,PASS,515170
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0086-task-scheduler,Task scheduler,2,1,1,1,true,PASS,136613
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0142-last-element,Last element,1,1,1,1,true,PASS,21793
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0089-max-profit-one-transaction,Max profit one transaction,2,1,1,1,true,PASS,42577
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0215-longest-substring-without-repeating-char,Longest substring without repeating characters,2,1,1,1,true,PASS,51200
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0216-top-k-frequent-elements,Top K frequent elements,2,1,0,0,false,FAIL,202219
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,code-reading,task-0007-boolean-or-of-truthy-values,Boolean OR of truthy values,1,1,1,1,true,PASS,19085
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0144-fibonacci-n-th-term,Fibonacci n-th term,1,1,1,1,true,PASS,131954
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0071-target-sum-pair-count,Target sum pair count,1,1,1,1,true,PASS,70344
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0171-find-the-single-number-xor,Find the single number (XOR),2,1,0.2,0.2,false,PARTIAL,1001570
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0107-sliding-window-maximum,Sliding window maximum,3,1,1,1,true,PASS,99214
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0053-ambiguous-trick-wording,Ambiguous trick wording,2,1,1,1,true,PASS,43580
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0222-ransom-note,Ransom note,1,1,1,1,true,PASS,103488
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0284-build-order-planner,Build order planner,2,1,0,0,false,FAIL,1023375
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0255-lru-cache-operation-sequence,LRU cache (operation sequence),3,1,1,1,true,PASS,137519
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0072-second-largest-element,Second largest element,1,1,1,1,true,PASS,49926
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0266-valid-sudoku,Valid Sudoku,3,1,1,1,true,PASS,140393
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0059-paradox-self-reference,Paradox self-reference,3,1,0,0,false,FAIL,25173
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,math,task-0035-gcd-of-84-and-30,gcd of 84 and 30,2,1,1,1,true,PASS,10293
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0101-median-of-two-sorted-arrays,Median of two sorted arrays,3,1,1,1,true,PASS,577019
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0153-first-word-repeated,First word repeated,2,1,1,1,true,PASS,181448
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0185-largest-number-from-array,Largest number from array,3,1,1,1,true,PASS,427834
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0133-maximum-value,Maximum value,1,1,1,1,true,PASS,36889
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0063-freeform-simple-sequence,Freeform simple sequence,1,1,1,1,true,PASS,11306
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0206-kids-with-greatest-candies,Kids with greatest candies,1,1,1,1,true,PASS,52507
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0305-design-a-self-healing-autoscaling-strate,Design a self-healing autoscaling strategy,3,1,1,1,true,PASS,649229
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0204-counting-bits,Counting bits,2,1,1,1,true,PASS,100234
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0252-sliding-window-maximum,Sliding window maximum,3,1,1,1,true,PASS,925521
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,code-reading,task-0011-this-binding-in-method-call,this binding in method call,2,1,0,0,false,FAIL,41819
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0281-election-scrutineer,Election scrutineer,2,1,1,1,true,PASS,69461
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0199-move-zeroes,Move zeroes,1,1,1,1,true,PASS,66073
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0168-reverse-integer,Reverse integer,2,1,1,1,true,PASS,184464
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0163-maximum-subarray-kadane,Maximum subarray (Kadane),2,1,0,0,false,ERROR,1894
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,knowledge,task-0027-direct-mapped-cache-set-selection-bits,Direct-Mapped Cache Set Selection Bits,2,1,0,0,false,FAIL,157070
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0069-freeform-hard-sequence,Freeform hard sequence,3,1,1,1,true,PASS,12144
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0116-min-arrows-to-burst-balloons,Min arrows to burst balloons,3,1,1,1,true,PASS,94221
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0058-weighing-ambiguous-weight,Weighing ambiguous weight,3,1,0,0,false,FAIL,309735
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0079-count-negatives-in-grid,Count negatives in grid,1,1,0,0,false,FAIL,1049913
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0200-is-subsequence,Is subsequence,1,1,1,1,true,PASS,109485
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0091-count-triplets-equal-sum,Count triplets equal sum,2,1,0,0,false,FAIL,1035034
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0275-grid-pathfinding-agent,Grid pathfinding agent,2,1,1,1,true,PASS,592189
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0190-valid-parentheses,Valid parentheses,1,1,1,1,true,PASS,331838
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0080-maximum-row-sum,Maximum row sum,1,1,1,1,true,PASS,29046
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,math,task-0033-integral-of-6x-2-on-0-1,"""Integral of 6x^2 on [0,1]""",1,1,1,1,true,PASS,24157
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0241-house-robber,House robber,2,1,1,1,true,PASS,59881
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,math,task-0034-integral-of-sin-x-on-0-pi,"""Integral of sin x on [0, pi]""",2,1,1,1,true,PASS,25756
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0055-scheduling-conflict-deduce,Scheduling conflict deduce,2,1,1,1,true,PASS,64055
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0221-sum-of-unique-elements,Sum of unique elements,1,1,1,1,true,PASS,71430
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0225-defang-ip-address,Defang IP address,1,1,1,1,true,PASS,14464
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0239-plus-one,Plus one,2,1,1,1,true,PASS,63745
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0167-first-unique-character,First unique character,2,1,1,1,true,PASS,46541
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0092-subarray-sum-equals-k-count,Subarray sum equals k count,2,1,1,1,true,PASS,59429
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,code-reading,task-0010-mutability-aliasing-in-python,Mutability aliasing in Python,2,1,0,0,false,FAIL,20615
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0256-edit-distance,Edit distance,3,1,1,1,true,PASS,87878
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0088-house-robber,House robber,2,1,1,1,true,PASS,80270
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0306-recover-from-a-bad-commit-in-shared-hist,Recover from a bad commit in shared history,3,1,0.75,0.75,false,PARTIAL,1073985
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0157-anagram-check,Anagram check,2,1,1,1,true,PASS,40070
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0226-find-nearest-valid-point,Find nearest valid point,1,1,1,1,true,PASS,82116
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0130-min-candies-distribution,Min candies distribution,3,1,1,1,true,PASS,57464
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0219-find-the-difference,Find the difference,1,1,1,1,true,PASS,49316
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,code-reading,task-0009-promise-microtask-ordering,Promise microtask ordering,2,1,1,1,true,PASS,22315
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0141-palindrome-string-check,Palindrome string check,1,1,1,1,true,PASS,31727
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0188-two-sum-return-indices,Two Sum — return indices,1,1,1,1,true,PASS,37074
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0076-contains-duplicate,Contains duplicate,1,1,1,1,true,PASS,17806
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,math,task-0036-determinant-of-2x2,Determinant of 2x2,2,1,1,1,true,PASS,26927
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,code-reading,task-0008-loop-closure-over-let,Loop closure over let,2,1,0,0,false,FAIL,42878
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0060-complex-truth-teller-logic,Complex truth-teller logic,3,1,0,0,false,FAIL,290077
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,math,task-0043-dice-sum-ways,Dice sum ways,2,1,0,0,false,FAIL,975929
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0248-fraction-to-recurring-decimal,Fraction to recurring decimal,2,1,0,0,false,FAIL,972824
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0189-reverse-word-order,Reverse word order,1,1,1,1,true,PASS,65025
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0179-coin-change-min-coins,Coin change (min coins),3,1,1,1,true,PASS,260070
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0202-running-sum,Running sum,1,1,1,1,true,PASS,36104
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0106-minimum-path-in-grid,Minimum path in grid,2,1,1,1,true,PASS,167080
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0260-largest-rectangle-in-histogram,Largest rectangle in histogram,3,1,1,1,true,PASS,85803
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0054-venn-three-category,Venn three-category,2,1,1,1,true,PASS,75038
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,code-reading,task-0005-modulo-sign,Modulo sign,1,1,1,1,true,PASS,9130
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0236-validate-ip-address,Validate IP address,2,1,0,0,false,FAIL,1015299
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0056-probability-conditional,Probability conditional,2,1,1,1,true,PASS,33397
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0123-count-subsets-summing-to-target,Count subsets summing to target,2,1,0,0,false,FAIL,1017448
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,knowledge,task-0023-utf-8-maximum-bytes-per-code-point,UTF-8 Maximum Bytes Per Code Point,1,1,1,1,true,PASS,15848
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0196-roman-to-integer,Roman to Integer,2,1,1,1,true,PASS,35136
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0277-turnstile-event-simulator,Turnstile event simulator,2,1,1,1,true,PASS,37181
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0099-maximum-product-subarray,Maximum product subarray,3,1,1,1,true,PASS,211502
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0160-plus-one-carry,Plus one (carry),2,1,1,1,true,PASS,146406
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0253-median-of-two-sorted-arrays,Median of two sorted arrays,3,1,1,1,true,PASS,415571
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0230-left-and-right-sum-differences,Left and right sum differences,1,1,1,1,true,PASS,116034
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0181-largest-rectangle-in-histogram,Largest rectangle in histogram,3,1,1,1,true,PASS,630134
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0223-shuffle-string,Shuffle string,1,1,1,1,true,PASS,29441
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0198-product-of-array-except-self,Product of array except self,2,1,1,1,true,PASS,62467
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0136-average-of-list,Average of list,1,1,1,1,true,PASS,18308
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0300-onboard-a-teammate-to-local-development,Onboard a teammate to local development,2,1,1,1,true,PASS,677007
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0170-sort-even-and-odd-indices,Sort even and odd indices,2,1,1,1,true,PASS,46644
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0237-simplify-path,Simplify path,2,1,1,1,true,PASS,76977
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,math,task-0041-modular-exponentiation,Modular exponentiation,1,1,1,1,true,PASS,40681
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,code-reading,task-0014-async-function-returns-promise,Async function returns Promise,2,1,1,1,true,PASS,53015
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0191-climbing-stairs,Climbing stairs,1,1,1,1,true,PASS,132492
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0074-sorted-array-intersection,Sorted array intersection,1,1,1,1,true,PASS,32690
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,code-reading,task-0003-integer-division-truncation,Integer division truncation,1,1,0,0,false,FAIL,20681
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0110-edit-distance,Edit distance,3,1,1,1,true,PASS,97529
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0254-first-missing-positive,First missing positive,3,1,1,1,true,PASS,708705
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0109-largest-rectangle-in-histogram,Largest rectangle in histogram,3,1,1,1,true,PASS,153696
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0050-handshake-count-single,Handshake count single,1,1,1,1,true,PASS,22257
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0090-max-water-container,Max water container,2,1,1,1,true,PASS,52584
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0061-monty-hall-with-variant,Monty Hall with variant,3,1,1,1,true,PASS,45655
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,knowledge,task-0026-tcp-slow-start-window-growth,TCP Slow Start Window Growth,2,1,0,0,false,FAIL,19140
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,code-reading,task-0012-floating-point-accumulation,Floating-point accumulation,2,1,0,0,false,FAIL,103865
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,knowledge,task-0028-bloom-filter-false-positive-property,Bloom Filter False Positive Property,3,1,0,0,false,FAIL,29550
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0197-container-with-most-water,Container with most water,2,1,1,1,true,PASS,56379
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,code-reading,task-0019-recursion-depth-output,Recursion depth output,3,1,1,1,true,PASS,46710
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,math,task-0042-3x3-determinant,3x3 determinant,2,1,1,1,true,PASS,51009
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0064-freeform-bat-and-ball,Freeform bat and ball,2,1,1,1,true,PASS,18206
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0051-basic-venn-overlap,Basic Venn overlap,1,1,1,1,true,PASS,9345
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0113-longest-valid-parentheses,Longest valid parentheses,3,1,1,1,true,PASS,145799
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0228-maximum-69-number,Maximum 69 number,1,1,1,1,true,PASS,68505
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0166-move-zeroes,Move zeroes,2,1,1,1,true,PASS,78810
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0103-word-break,Word break,3,1,1,1,true,PASS,90267
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,math,task-0032-modular-power-2-10-mod-7,Modular power 2^10 mod 7,1,1,1,1,true,PASS,23350
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0052-causality-vs-correlation,Causality vs correlation,2,1,0,0,false,FAIL,31385
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0234-next-permutation,Next permutation,2,1,1,1,true,PASS,104176
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0261-max-points-on-a-line,Max points on a line,3,1,0,0,false,FAIL,1058723
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0212-string-compression,String compression,2,1,0.2,0.2,false,PARTIAL,222920
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0271-stack-operator,Stack operator,1,1,1,1,true,PASS,270610
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,knowledge,task-0029-origin-of-the-term-artificial-intelligen,Origin of the Term Artificial Intelligence,3,1,1,1,true,PASS,792642
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0162-missing-number,Missing number,2,1,1,1,true,PASS,36502
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0301-canary-rollout-of-a-service,Canary rollout of a service,2,1,1,1,true,PASS,299822
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0238-add-binary-strings,Add binary strings,2,1,1,1,true,PASS,74906
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0121-k-closest-points-to-origin,K closest points to origin,2,1,0,0,false,FAIL,1074627
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0150-valid-parentheses-matching,Valid parentheses (matching),2,1,1,1,true,PASS,306424
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0218-squares-of-a-sorted-array,Squares of a sorted array,1,1,1,1,true,PASS,79643
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0192-longest-common-prefix,Longest common prefix,1,1,1,1,true,PASS,137660
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,knowledge,task-0025-coffman-conditions-which-is-not-one,Coffman Conditions — Which Is Not One?,2,1,0,0,false,FAIL,75423
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0084-can-attend-all-meetings,Can attend all meetings,2,1,1,1,true,PASS,150447
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0195-integer-to-roman,Integer to Roman,2,1,1,1,true,PASS,108895
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0290-paragraph-formatter,Paragraph formatter,3,1,0,0,false,FAIL,385244
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0117-max-profit-job-scheduling,Max profit job scheduling,3,1,1,1,true,PASS,264162
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,math,task-0045-count-numbers-avoiding-a-digit,Count numbers avoiding a digit,3,1,1,1,true,PASS,833573
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0176-longest-palindromic-substring,Longest palindromic substring,3,1,1,1,true,PASS,409667
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0085-longest-consecutive-sequence,Longest consecutive sequence,2,1,1,1,true,PASS,183383
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0232-rotate-array-right-by-k,Rotate array right by k,2,1,1,1,true,PASS,86839
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0259-basic-calculator-ii,Basic calculator II,3,1,1,1,true,PASS,432922
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,math,task-0031-sum-of-1-to-100,Sum of 1 to 100,1,1,1,1,true,PASS,14594
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0047-river-crossing-feasibility,River crossing feasibility,1,1,1,1,true,PASS,45515
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0161-reverse-words-in-string,Reverse words in string,2,1,1,1,true,PASS,84629
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0105-kth-largest-element,Kth largest element,2,1,0,0,false,FAIL,1039410
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0137-count-vowels,Count vowels,1,1,1,1,true,PASS,47239
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0240-jump-game,Jump game,2,1,1,1,true,PASS,57435
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0177-trapping-rain-water,Trapping rain water,3,1,1,1,true,PASS,738668
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0296-deploy-service-to-staging,Deploy service to staging,1,1,1,1,true,PASS,180851
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0077-frequency-of-maximum,Frequency of maximum,1,1,1,1,true,PASS,59642
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0140-first-positive-index,First positive index,1,1,1,1,true,PASS,26186
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0203-single-number,Single number,2,1,1,1,true,PASS,33141
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0302-trace-a-slow-request-across-services,Trace a slow request across services,3,1,1,1,true,PASS,753503
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0159-is-subsequence,Is subsequence,2,1,1,1,true,PASS,42599
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,code-reading,task-0001-short-circuit-or-assignment,Short-circuit OR assignment,1,1,0,0,false,FAIL,25426
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0270-elevator-commute-distance,Elevator commute distance,1,1,1,1,true,PASS,59731
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0183-median-of-two-sorted-arrays,Median of two sorted arrays,3,1,0,0,false,FAIL,985573
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0169-first-non-repeating-word-rate,First non-repeating (word rate),2,1,0,0,false,FAIL,989293
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0267-robot-footprints,Robot footprints,1,1,1,1,true,PASS,122506
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0172-two-pointer-container-water,Two-pointer container water,2,1,1,1,true,PASS,51685
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0250-max-consecutive-ones-with-one-flip,Max consecutive ones with one flip,2,1,1,1,true,PASS,62808
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0151-binary-search-direction,Binary search direction,2,1,1,1,true,PASS,67490
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0065-freeform-two-child-conditional,Freeform two-child conditional,2,1,1,1,true,PASS,23587
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0304-automate-an-on-call-runbook-response,Automate an on-call runbook response,3,1,1,1,true,PASS,975987
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0289-chemical-formula-counter,Chemical formula counter,3,1,1,1,true,PASS,292484
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0205-missing-number,Missing number,1,1,1,1,true,PASS,33797
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0258-candy-distribution,Candy distribution,3,1,1,1,true,PASS,106395
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0294-minimum-jumps-agent,Minimum jumps agent,3,1,1,1,true,PASS,471731
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0272-secretary-task-ordering,Secretary task ordering,1,1,1,1,true,PASS,128070
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0049-basic-logical-converse,Basic logical converse,1,1,1,1,true,PASS,83073
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0251-trapping-rain-water,Trapping rain water,3,1,1,1,true,PASS,112459
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0208-merge-strings-alternately,Merge strings alternately,1,1,1,1,true,PASS,75614
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0046-truth-teller-or-liar,Truth-teller or liar,1,1,0,0,false,FAIL,58272
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0262-palindrome-pairs,Palindrome pairs,3,1,0,0,false,FAIL,1057962
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0057-two-liar-knight-compound,Two liar-knight compound,3,1,0,0,false,FAIL,39768
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0078-is-perfect-square,Is perfect square,1,1,0,0,false,FAIL,1033606
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0194-merge-sorted-arrays-in-place,Merge sorted arrays in place,2,1,0.5,0.5,false,PARTIAL,97021
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0155-rotate-array-right-by-k,Rotate array right by k,2,1,1,1,true,PASS,167935
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0303-downtime-free-database-schema-migration,Downtime-free database schema migration,3,1,1,1,true,PASS,1031729
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0098-min-subarray-length-sum-target,Min subarray length sum >= target,2,1,0,0,false,FAIL,1034124
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,code-reading,task-0006-bitwise-and-of-powers,Bitwise AND of powers,1,1,1,1,true,PASS,16293
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0245-repeated-dna-sequences,Repeated DNA sequences,2,1,0,0,false,FAIL,1036042
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0068-freeform-weighing-minimum,Freeform weighing minimum,3,1,1,1,true,PASS,26082
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0263-remove-duplicate-letters-smallest-lexico,Remove duplicate letters (smallest lexicographic),3,1,1,1,true,PASS,190665
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0095-course-schedule-cycle-check,Course schedule cycle check,2,1,1,1,true,PASS,186232
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0210-reverse-vowels-of-a-string,Reverse vowels of a string,1,1,1,1,true,PASS,164217
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0134-reverse-a-string,Reverse a string,1,1,1,1,true,PASS,11563
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0100-longest-increasing-subsequence,Longest increasing subsequence,3,1,1,1,true,PASS,78407
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0274-run-length-decompressor,Run-length decompressor,1,1,1,1,true,PASS,198539
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0066-freeform-river-crossing-count,Freeform river crossing count,2,1,1,1,true,PASS,43090
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0291-minimum-window-finder,Minimum window finder,3,1,0,0,false,FAIL,1065706
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0269-directory-resolver,Directory resolver,1,1,1,1,true,PASS,118840
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0120-nth-gray-code-value,Nth gray code value,1,1,1,1,true,PASS,17906
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,reasoning,task-0048-simple-sequence-extrapolation,Simple sequence extrapolation,1,1,1,1,true,PASS,19696
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,math,task-0040-integral-of-x-2-x-on-0-2,"""Integral of x^2 + x on [0,2]""",3,1,1,1,true,PASS,26062
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0094-number-of-islands,Number of Islands,2,1,0.2857,0.2857,false,PARTIAL,159654
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0135-factorial,Factorial,1,1,1,1,true,PASS,35039
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0279-bracket-validator,Bracket validator,2,1,1,1,true,PASS,66071
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0233-sort-colors,Sort colors,2,1,1,1,true,PASS,91673
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0111-min-initial-health-in-grid,Min initial health in grid,3,1,0,0,false,FAIL,1092004
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0213-group-anagrams,Group anagrams,2,1,1,1,true,PASS,599920
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0288-min-refuel-stops,Min refuel stops,3,1,1,1,true,PASS,567844
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0124-next-permutation,Next permutation,3,1,0.25,0.25,false,PARTIAL,99805
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0129-largest-number-from-array,Largest number from array,2,1,1,1,true,PASS,193555
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0211-increasing-triplet-subsequence,Increasing triplet subsequence,2,1,0,0,false,FAIL,1029235
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,code-reading,task-0013-js-left-shift-overflow,JS left shift overflow,2,1,1,1,true,PASS,37373
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0156-run-length-compress,Run-length compress,2,1,1,1,true,PASS,88359
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0165-climbing-stairs,Climbing stairs,2,1,1,1,true,PASS,99787
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0287-campus-network-cabling,Campus network cabling,3,1,1,1,true,PASS,150745
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0154-majority-element,Majority element,2,1,1,1,true,PASS,49878
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,math,task-0044-integer-partitions,Integer partitions,3,1,1,1,true,PASS,67555
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0096-minimum-coins-to-amount,Minimum coins to amount,2,1,1,1,true,PASS,110961
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0285-nested-list-parser,Nested list parser,3,1,0,0,false,FAIL,1034309
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0148-longest-consecutive-sequence,Longest consecutive sequence,2,1,1,1,true,PASS,99638
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0244-zigzag-conversion,Zigzag conversion,2,1,1,1,true,PASS,85537
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0097-wiggle-subsequence-length,Wiggle subsequence length,2,1,1,1,true,PASS,273688
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0152-remove-duplicates-in-sorted-array,Remove duplicates in sorted array,2,1,0.6667,0.6667,false,PARTIAL,80668
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0149-two-sum-fix-reuse,Two sum (fix reuse),2,1,1,1,true,PASS,340877
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,math,task-0039-arrangements-of-mississippi,Arrangements of MISSISSIPPI,3,1,1,1,true,PASS,60976
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0276-deadline-resource-scheduler,Deadline resource scheduler,2,1,0,0,false,FAIL,1089333
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0201-find-pivot-index,Find pivot index,1,1,1,1,true,PASS,43143
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0182-sliding-window-maximum,Sliding window maximum,3,1,1,1,true,PASS,295163
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,code-reading,task-0016-try-except-else-ordering,try/except else ordering,3,1,0,0,false,FAIL,34681
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0243-isomorphic-strings,Isomorphic strings,2,1,1,1,true,PASS,57350
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,code-reading,task-0018-default-mutable-argument-trap,Default mutable argument trap,3,1,1,1,true,PASS,28159
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0127-count-reverse-pairs,Count reverse pairs,3,1,0,0,false,FAIL,958310
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0229-halves-are-alike,Halves are alike,1,1,1,1,true,PASS,112222
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0108-split-array-largest-sum,Split array largest sum,3,1,0,0,false,ERROR,4940
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0242-word-pattern,Word pattern,2,1,0,0,false,ERROR,13
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0131-sum-of-an-array,Sum of an array,1,1,0,0,false,ERROR,11
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0265-number-of-islands,Number of islands,3,1,0,0,false,ERROR,21
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0118-stock-with-cooldown-max-profit,Stock with cooldown max profit,3,1,0,0,false,ERROR,6
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0209-greatest-common-divisor-of-strings,Greatest common divisor of strings,2,1,0,0,false,ERROR,4
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0081-hamming-weight,Hamming weight,1,1,0,0,false,ERROR,5
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0128-number-of-coin-combinations,Number of coin combinations,3,1,0,0,false,ERROR,6
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0125-count-derangements,Count derangements,3,1,0,0,false,ERROR,8
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0082-squares-of-sorted-array,Squares of sorted array,1,1,0,0,false,ERROR,5
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0231-longest-palindromic-substring,Longest palindromic substring,2,1,0,0,false,ERROR,5
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0286-tic-tac-toe-game-solver,Tic-tac-toe game solver,3,1,0,0,false,ERROR,10
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0297-diagnose-failing-ci-after-a-merge,Diagnose failing CI after a merge,2,1,0,0,false,ERROR,8
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0207-can-place-flowers,Can place flowers,2,1,0,0,false,ERROR,6
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0214-string-to-integer-atoi,String to integer (atoi),2,1,0,0,false,ERROR,4
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,code-reading,task-0004-array-pop-return-value,Array pop return value,1,1,0,0,false,ERROR,5
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,math,task-0037-exactly-two-heads-in-three-flips,Exactly two heads in three flips,2,1,0,0,false,ERROR,4
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,knowledge,task-0021-binary-search-worst-case-time-complexity,Binary Search Worst-Case Time Complexity,1,1,0,0,false,ERROR,4
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,math,task-0038-limit-of-sin-x-x,Limit of sin x / x,3,1,0,0,false,ERROR,4
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0174-happy-number,Happy number,2,1,0,0,false,ERROR,15
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0193-palindrome-number,Palindrome number,1,1,0,0,false,ERROR,4
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0292-word-ladder-agent,Word ladder agent,3,1,0,0,false,ERROR,13
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-bugfix,task-0143-contains-substring,Contains substring,1,1,0,0,false,ERROR,20
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,knowledge,task-0030-cap-theorem-precise-statement,CAP Theorem Precise Statement,3,1,0,0,false,ERROR,5
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0273-keyword-ranking-agent,Keyword ranking agent,1,1,0,0,false,ERROR,19
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-implementation,task-0235-decode-string,Decode string,2,1,0,0,false,ERROR,7
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0283-disk-head-scheduler,Disk head scheduler,2,1,0,0,false,FAIL,986660
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0102-burst-balloons-max-coins,Burst balloons max coins,3,1,0,0,false,FAIL,973359
+2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0126-multiply-large-numbers,Multiply large numbers,2,1,0,0,false,FAIL,959412
