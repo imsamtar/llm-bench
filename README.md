@@ -166,3 +166,109 @@ cases.
   hardened security sandbox — **do not run untrusted/unknown endpoints**.
 - `noUncheckedIndexedAccess` is off in `tsconfig.json` so reference implementations
   (which rely on heavy index access and are runtime-only) typecheck comfortably.
+
+## Sample results (306-task runs)
+
+Headline overall ranking across the models benchmarked so far, followed by the
+per-category breakdown. These are snapshot results from a single full run per model
+and will drift; regenerate the tables by running the benchmark yourself.
+
+### Overall
+
+| rank | model | score | % |
+|---|---|---|---|
+| 1 | glm-5.3-flash | 273.25/306 | 89.3% |
+| 2 | Qwen3.6-35B-A3B-oQ4e (local) | 265.92/306 | 86.9% |
+| 3 | glm-5.3 | 263.38/306 | 86.1% |
+| 4 | qwen3.8-flash | 260.28/306 | 85.1% |
+| 5 | deepseek-v4-flash-vision-exp | 255.16/306 | 83.4% |
+| 6 | Qwen3.8-27B-oQ4e (local) | 218.23/306 | 71.3% |
+
+### coding-implementation
+
+| rank | model | % |
+|---|---|---|
+| 1 | glm-5.3-flash | 93.3% |
+| 2 | qwen3.8-flash | 92.4% |
+| 3 | glm-5.3 | 91.2% |
+| 4 | Qwen3.6-35B (local) | 90.9% |
+| 5 | deepseek-v4-flash | 89.7% |
+| 6 | Qwen3.8-27B (local) | 76.8% |
+
+### coding-bugfix
+
+| rank | model | % |
+|---|---|---|
+| 1 | glm-5.3-flash | 99.2% |
+| 2 | deepseek-v4-flash | 97.7% |
+| 3 | Qwen3.6-35B (local) | 97.5% |
+| 4 | glm-5.3 | 95.9% |
+| 4 | qwen3.8-flash | 95.9% |
+| 6 | Qwen3.8-27B (local) | 82.2% |
+
+### coding-algorithm
+
+| rank | model | % |
+|---|---|---|
+| 1 | Qwen3.6-35B (local) | 92.3% |
+| 2 | glm-5.3-flash | 90.9% |
+| 3 | deepseek-v4-flash | 89.6% |
+| 4 | glm-5.3 | 88.2% |
+| 5 | qwen3.8-flash | 83.2% |
+| 6 | Qwen3.8-27B (local) | 64.9% |
+
+### agentic
+
+| rank | model | % |
+|---|---|---|
+| 1 | glm-5.3-flash | 93.8% |
+| 2 | Qwen3.6-35B (local) | 85.3% |
+| 3 | qwen3.8-flash | 82.5% |
+| 4 | glm-5.3 | 81.9% |
+| 5 | deepseek-v4-flash | 79.7% |
+| 6 | Qwen3.8-27B (local) | 69.4% |
+
+### code-reading
+
+| rank | model | % |
+|---|---|---|
+| 1 | qwen3.8-flash | 55.0% |
+| 2 | glm-5.3-flash | 50.0% |
+| 2 | Qwen3.6-35B (local) | 50.0% |
+| 2 | glm-5.3 | 50.0% |
+| 2 | Qwen3.8-27B (local) | 50.0% |
+| 6 | deepseek-v4-flash | 45.0% |
+
+### reasoning
+
+| rank | model | % |
+|---|---|---|
+| 1 | glm-5.3 | 80.0% |
+| 1 | Qwen3.6-35B (local) | 80.0% |
+| 3 | glm-5.3-flash | 76.0% |
+| 3 | qwen3.8-flash | 76.0% |
+| 3 | Qwen3.8-27B (local) | 76.0% |
+| 6 | deepseek-v4-flash | 68.0% |
+
+### math
+
+| rank | model | % |
+|---|---|---|
+| 1 | glm-5.3-flash | 100% |
+| 1 | Qwen3.6-35B (local) | 100% |
+| 3 | glm-5.3 | 93.3% |
+| 3 | qwen3.8-flash | 93.3% |
+| 5 | deepseek-v4-flash | 80.0% |
+| 5 | Qwen3.8-27B (local) | 80.0% |
+
+### knowledge
+
+| rank | model | % |
+|---|---|---|
+| 1 | glm-5.3-flash | 70.0% |
+| 1 | glm-5.3 | 70.0% |
+| 3 | qwen3.8-flash | 56.7% |
+| 4 | deepseek-v4-flash | 50.0% |
+| 5 | Qwen3.6-35B (local) | 40.0% |
+| 6 | Qwen3.8-27B (local) | 30.0% |
+
