@@ -175,14 +175,14 @@ and will drift; regenerate the tables by running the benchmark yourself.
 
 ### Overall
 
-| rank | model | score | % |
-|---|---|---|---|
-| 1 | glm-5.3-flash | 273.25/306 | 89.3% |
-| 2 | Qwen3.6-35B-A3B-oQ4e (local) | 265.92/306 | 86.9% |
-| 3 | glm-5.3 | 263.38/306 | 86.1% |
-| 4 | qwen3.8-flash | 260.28/306 | 85.1% |
-| 5 | deepseek-v4-flash-vision-exp | 255.16/306 | 83.4% |
-| 6 | Qwen3.8-27B-oQ4e (local) | 218.23/306 | 71.3% |
+| rank | model | score | % | time |
+|---|---|---|---|---|
+| 1 | glm-5.3-flash | 273.25/306 | 89.3% | 3.9 min |
+| 2 | Qwen3.6-35B-A3B-oQ4e (local) | 265.92/306 | 86.9% | 117.5 min |
+| 3 | glm-5.3 | 263.38/306 | 86.1% | 12.7 min |
+| 4 | qwen3.8-flash | 260.28/306 | 85.1% | 12.3 min |
+| 5 | deepseek-v4-flash-vision-exp | 255.16/306 | 83.4% | 6.2 min |
+| 6 | Qwen3.8-27B-oQ4e (local) | 218.23/306 | 71.3% | 304.8 min |
 
 ### coding-implementation
 
