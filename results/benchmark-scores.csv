@@ -1,0 +1,2 @@
+timestamp,iso,model_id,base_url,total_tasks,total_max,total_score,overall_pct
+2026-09-03T07-53-41,2026-09-03T07:53:41.849Z,Qwen3.6-35B-A3B-oQ4e-fp16-mtp,http://localhost:8000/v1,306,306,265.92,86.9

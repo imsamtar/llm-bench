@@ -6,8 +6,7 @@ out
 dist
 *.tgz
 
-# benchmark results (generated at runtime)
-results
+
 
 # code coverage
 coverage
