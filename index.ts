@@ -78,7 +78,7 @@ function parseArgs(argv: string[]): CliArgs {
   const to = take("--timeout");
   if (to) args.requestTimeoutSec = parseInt(to, 10);
   const seed = take("--seed");
-  if (seed) (args as CliArgs & { seed?: string }).seed = seed;
+  if (seed) args.seed = seed;
   return args;
 }
 
@@ -96,7 +96,7 @@ function selectTasks(all: Task[], args: CliArgs): Task[] {
     const f = args.filter.toLowerCase();
     tasks = tasks.filter((t) => t.id.toLowerCase().includes(f) || t.title.toLowerCase().includes(f));
   }
-  const seed = (args as CliArgs & { seed?: string }).seed;
+  const seed = args.seed;
   if (seed) {
     let h = 0;
     for (const ch of seed) h = (h * 31 + ch.charCodeAt(0)) >>> 0;

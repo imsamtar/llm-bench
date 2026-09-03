@@ -68,11 +68,3 @@ export async function chat(opts: ChatOptions): Promise<string> {
   }
   return content;
 }
-
-export function openaiLikeEndpoints(): string[] {
-  return [
-    "https://api.openai.com/v1",
-    "https://api.anthropic.com/v1",
-    "https://generativelanguage.googleapis.com/v1beta/openai",
-  ];
-}

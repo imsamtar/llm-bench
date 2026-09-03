@@ -10,7 +10,7 @@ export type Category =
 
 export type TaskType = "code" | "freeform" | "multiple_choice";
 
-export type CodeLang = "javascript" | "python" | "shell" | "sql";
+export type CodeLang = "javascript" | "python";
 
 export interface CodeSpec {
   lang: CodeLang;
@@ -98,4 +98,5 @@ export interface CliArgs {
   minScore?: number;
   requestTimeoutSec: number;
   session?: string;
+  seed?: string;
 }
