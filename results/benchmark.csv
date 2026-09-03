@@ -1529,3 +1529,309 @@ timestamp,iso,model_id,base_url,category,task_id,title,difficulty,max_score,scor
 2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0138-count-negatives-in-grid,Count negatives in grid,1,1,1,1,true,PASS,58122
 2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0161-burst-balloons-max-coins,Burst balloons max coins,3,1,0,0,false,ERROR,120003
 2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0160-median-of-two-sorted-arrays,Median of two sorted arrays,3,1,1,1,true,PASS,117228
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0279-freeform-simple-sequence,Freeform simple sequence,1,1,1,1,true,PASS,2297
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0169-nth-gray-code-value,Nth gray code value,1,1,1,1,true,PASS,3118
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0220-find-the-single-number-xor,Find the single number (XOR),2,1,1,1,true,PASS,3168
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0055-running-sum,Running sum,1,1,1,1,true,PASS,3427
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,knowledge,task-0254-utf-8-maximum-bytes-per-code-point,UTF-8 Maximum Bytes Per Code Point,1,1,0,0,false,FAIL,1800
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,knowledge,task-0253-tcp-vs-udp-delivery-guarantee,TCP vs UDP Delivery Guarantee,1,1,0,0,false,FAIL,5128
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0121-second-largest-element,Second largest element,1,1,1,1,true,PASS,1890
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0005-stack-operator,Stack operator,1,1,1,1,true,PASS,3585
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0151-burst-balloons-max-coins,Burst balloons max coins,3,1,1,1,true,PASS,6403
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,knowledge,task-0255-np-completeness-precise-definition,NP-Completeness Precise Definition,2,1,1,1,true,PASS,2273
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0280-freeform-bat-and-ball,Freeform bat and ball,2,1,1,1,true,PASS,1433
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0181-count-even-numbers,Count even numbers,1,1,1,1,true,PASS,2315
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0063-reverse-vowels-of-a-string,Reverse vowels of a string,1,1,1,1,true,PASS,3839
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0165-min-arrows-to-burst-balloons,Min arrows to burst balloons,3,1,1,1,true,PASS,5531
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0079-find-nearest-valid-point,Find nearest valid point,1,1,1,1,true,PASS,2694
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,math,task-0248-3x3-determinant,3x3 determinant,2,1,1,1,true,PASS,2748
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0071-squares-of-a-sorted-array,Squares of a sorted array,1,1,1,1,true,PASS,3833
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,math,task-0249-dice-sum-ways,Dice sum ways,2,1,1,1,true,PASS,11917
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0044-climbing-stairs,Climbing stairs,1,1,1,1,true,PASS,2141
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0144-course-schedule-cycle-check,Course schedule cycle check,2,1,1,1,true,PASS,3810
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,code-reading,task-0292-bitwise-and-of-powers,Bitwise AND of powers,1,1,1,1,true,PASS,1609
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0143-number-of-islands,Number of Islands,2,1,0.2857,0.2857,false,PARTIAL,8450
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0285-freeform-hard-sequence,Freeform hard sequence,3,1,1,1,true,PASS,1303
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0204-rotate-array-right-by-k,Rotate array right by k,2,1,1,1,true,PASS,5949
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0058-missing-number,Missing number,1,1,1,1,true,PASS,2037
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0047-merge-sorted-arrays-in-place,Merge sorted arrays in place,2,1,0.5,0.5,false,PARTIAL,4337
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0125-contains-duplicate,Contains duplicate,1,1,1,1,true,PASS,1704
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0275-paradox-self-reference,Paradox self-reference,3,1,0,0,false,FAIL,1874
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0201-remove-duplicates-in-sorted-array,Remove duplicates in sorted array,2,1,0.6667,0.6667,false,PARTIAL,4328
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0057-counting-bits,Counting bits,2,1,1,1,true,PASS,3124
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0217-reverse-integer,Reverse integer,2,1,1,1,true,PASS,3713
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0212-maximum-subarray-kadane,Maximum subarray (Kadane),2,1,1,1,true,PASS,2516
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0234-largest-number-from-array,Largest number from array,3,1,1,1,true,PASS,5916
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0019-nested-list-parser,Nested list parser,3,1,1,1,true,PASS,15471
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0145-minimum-coins-to-amount,Minimum coins to amount,2,1,1,1,true,PASS,2948
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0225-longest-palindromic-substring,Longest palindromic substring,3,1,1,1,true,PASS,5382
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,knowledge,task-0259-bloom-filter-false-positive-property,Bloom Filter False Positive Property,3,1,0,0,false,FAIL,2521
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0221-two-pointer-container-water,Two-pointer container water,2,1,1,1,true,PASS,2481
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,knowledge,task-0260-origin-of-the-term-artificial-intelligen,Origin of the Term Artificial Intelligence,3,1,1,1,true,PASS,3355
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0086-sort-colors,Sort colors,2,1,1,1,true,PASS,3925
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,code-reading,task-0301-nested-closure-captures-final-value,Nested closure captures final value,3,1,0,0,false,FAIL,2323
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0002-vending-machine-change,Vending machine change,1,1,0,0,false,FAIL,40372
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0173-next-permutation,Next permutation,3,1,0.25,0.25,false,PARTIAL,3771
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0046-palindrome-number,Palindrome number,1,1,1,1,true,PASS,3688
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0188-sum-of-squares,Sum of squares,1,1,1,1,true,PASS,1590
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,code-reading,task-0297-this-binding-in-method-call,this binding in method call,2,1,0,0,false,FAIL,4568
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0283-freeform-venn-counting,Freeform Venn counting,2,1,1,1,true,PASS,1496
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0007-keyword-ranking-agent,Keyword ranking agent,1,1,1,1,true,PASS,39972
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0095-word-pattern,Word pattern,2,1,1,1,true,PASS,5621
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0131-squares-of-sorted-array,Squares of sorted array,1,1,1,1,true,PASS,4703
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0265-basic-logical-converse,Basic logical converse,1,1,1,1,true,PASS,2150
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,math,task-0242-determinant-of-2x2,Determinant of 2x2,2,1,1,1,true,PASS,3241
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0020-tic-tac-toe-game-solver,Tic-tac-toe game solver,3,1,0,0,false,ERROR,33743
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,code-reading,task-0306-functional-composition-evaluation-order,Functional composition evaluation order,3,1,1,1,true,PASS,2339
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,code-reading,task-0299-js-left-shift-overflow,JS left shift overflow,2,1,1,1,true,PASS,2352
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0156-sliding-window-maximum,Sliding window maximum,3,1,1,1,true,PASS,5864
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0176-count-reverse-pairs,Count reverse pairs,3,1,1,1,true,PASS,44618
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0112-basic-calculator-ii,Basic calculator II,3,1,1,1,true,PASS,9313
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,math,task-0245-arrangements-of-mississippi,Arrangements of MISSISSIPPI,3,1,1,1,true,PASS,2473
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,math,task-0244-limit-of-sin-x-x,Limit of sin x / x,3,1,1,1,true,PASS,2286
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0035-canary-rollout-of-a-service,Canary rollout of a service,2,1,1,1,true,PASS,26871
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0161-count-palindromic-substrings,Count palindromic substrings,2,1,1,1,true,PASS,2976
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,knowledge,task-0252-binary-search-worst-case-time-complexity,Binary Search Worst-Case Time Complexity,1,1,1,1,true,PASS,1950
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0037-downtime-free-database-schema-migration,Downtime-free database schema migration,3,1,0,0,false,FAIL,57025
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0132-merge-intervals,Merge intervals,2,1,1,1,true,PASS,4739
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0224-product-of-array-except-self,Product of array except self,3,1,1,1,true,PASS,7719
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0111-candy-distribution,Candy distribution,3,1,1,1,true,PASS,4630
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0017-disk-head-scheduler,Disk head scheduler,2,1,0,0,false,FAIL,53389
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0056-single-number,Single number,2,1,1,1,true,PASS,1767
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0218-first-non-repeating-word-rate,First non-repeating (word rate),2,1,1,1,true,PASS,1895
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0205-run-length-compress,Run-length compress,2,1,1,1,true,PASS,2802
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0264-simple-sequence-extrapolation,Simple sequence extrapolation,1,1,0,0,false,FAIL,1782
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0235-number-of-islands,Number of islands,3,1,1,1,true,PASS,3832
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0163-decode-ways,Decode ways,3,1,1,1,true,PASS,9243
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0149-longest-increasing-subsequence,Longest increasing subsequence,3,1,1,1,true,PASS,2428
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0089-validate-ip-address,Validate IP address,2,1,1,1,true,PASS,23618
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0122-count-primes-up-to-n,Count primes up to n,1,1,1,1,true,PASS,6379
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0042-reverse-word-order,Reverse word order,1,1,1,1,true,PASS,3324
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0137-house-robber,House robber,2,1,1,1,true,PASS,3405
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0162-longest-valid-parentheses,Longest valid parentheses,3,1,1,1,true,PASS,7501
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,knowledge,task-0257-tcp-slow-start-window-growth,TCP Slow Start Window Growth,2,1,0,0,false,FAIL,2567
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0150-median-of-two-sorted-arrays,Median of two sorted arrays,3,1,1,1,true,PASS,6905
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0130-hamming-weight,Hamming weight,1,1,1,1,true,PASS,9514
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0153-trapping-rain-water,Trapping rain water,2,1,1,1,true,PASS,4753
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0127-is-perfect-square,Is perfect square,1,1,1,1,true,PASS,11655
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,code-reading,task-0290-array-pop-return-value,Array pop return value,1,1,0,0,false,FAIL,2029
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0170-k-closest-points-to-origin,K closest points to origin,2,1,1,1,true,PASS,3651
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0199-valid-parentheses-matching,Valid parentheses (matching),2,1,1,1,true,PASS,3682
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0278-freeform-handshakes,Freeform handshakes,1,1,1,1,true,PASS,1256
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0141-subarray-sum-equals-k-count,Subarray sum equals k count,2,1,1,1,true,PASS,2996
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0228-coin-change-min-coins,Coin change (min coins),3,1,1,1,true,PASS,2595
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0043-valid-parentheses,Valid parentheses,1,1,1,1,true,PASS,3575
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,code-reading,task-0289-integer-division-truncation,Integer division truncation,1,1,0,0,false,FAIL,2181
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0174-count-derangements,Count derangements,3,1,0,0,false,FAIL,33392
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0091-add-binary-strings,Add binary strings,2,1,1,1,true,PASS,2830
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0231-sliding-window-maximum,Sliding window maximum,3,1,1,1,true,PASS,11345
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0203-majority-element,Majority element,2,1,1,1,true,PASS,3325
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,code-reading,task-0304-default-mutable-argument-trap,Default mutable argument trap,3,1,1,1,true,PASS,3028
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0006-secretary-task-ordering,Secretary task ordering,1,1,1,1,true,PASS,4445
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0087-next-permutation,Next permutation,2,1,1,1,true,PASS,8174
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0075-ransom-note,Ransom note,1,1,1,1,true,PASS,3992
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0023-chemical-formula-counter,Chemical formula counter,3,1,1,1,true,PASS,16096
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,math,task-0237-sum-of-1-to-100,Sum of 1 to 100,1,1,1,1,true,PASS,2004
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0155-minimum-path-in-grid,Minimum path in grid,2,1,1,1,true,PASS,4911
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0066-group-anagrams,Group anagrams,2,1,1,1,true,PASS,5014
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0187-count-negatives,Count negatives,1,1,1,1,true,PASS,1785
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0142-daily-temperatures,Daily temperatures,2,1,1,1,true,PASS,4184
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0222-guess-number-off-by-one,Guess number (off by one),2,1,1,1,true,PASS,1991
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,code-reading,task-0294-loop-closure-over-let,Loop closure over let,2,1,0,0,false,FAIL,2468
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0025-minimum-window-finder,Minimum window finder,3,1,0.8889,0.8889,false,PARTIAL,14055
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0208-is-subsequence,Is subsequence,2,1,1,1,true,PASS,2565
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0200-binary-search-direction,Binary search direction,2,1,1,1,true,PASS,2407
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0090-simplify-path,Simplify path,2,1,1,1,true,PASS,3136
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,knowledge,task-0258-direct-mapped-cache-set-selection-bits,Direct-Mapped Cache Set Selection Bits,2,1,0,0,false,FAIL,3990
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0184-factorial,Factorial,1,1,1,1,true,PASS,2315
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0148-maximum-product-subarray,Maximum product subarray,3,1,1,1,true,PASS,8621
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0126-frequency-of-maximum,Frequency of maximum,1,1,1,1,true,PASS,2943
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,code-reading,task-0298-floating-point-accumulation,Floating-point accumulation,2,1,0,0,false,FAIL,2405
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0281-freeform-two-child-conditional,Freeform two-child conditional,2,1,1,1,true,PASS,1690
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0118-number-of-islands,Number of islands,3,1,0.3333,0.3333,false,PARTIAL,9296
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0040-recover-from-a-bad-commit-in-shared-hist,Recover from a bad commit in shared history,3,1,1,1,true,PASS,10607
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0039-design-a-self-healing-autoscaling-strate,Design a self-healing autoscaling strategy,3,1,1,1,true,PASS,10966
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0152-word-break,Word break,3,1,1,1,true,PASS,4408
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0134-longest-consecutive-sequence,Longest consecutive sequence,2,1,1,1,true,PASS,4314
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0052-move-zeroes,Move zeroes,1,1,1,1,true,PASS,2488
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0266-handshake-count-single,Handshake count single,1,1,1,1,true,PASS,2026
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0120-target-sum-pair-count,Target sum pair count,1,1,1,1,true,PASS,6607
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0186-count-vowels,Count vowels,1,1,1,1,true,PASS,3331
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0168-longest-mountain,Longest mountain,2,1,1,1,true,PASS,8985
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0262-truth-teller-or-liar,Truth-teller or liar,1,1,0,0,false,FAIL,2854
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0028-minimum-jumps-agent,Minimum jumps agent,3,1,1,1,true,PASS,3445
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0180-sum-of-an-array,Sum of an array,1,1,1,1,true,PASS,2151
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0210-reverse-words-in-string,Reverse words in string,2,1,1,1,true,PASS,2451
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0016-lru-cache-operator,LRU cache operator,2,1,1,1,true,PASS,4780
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0013-bracket-validator,Bracket validator,2,1,1,1,true,PASS,2458
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0051-product-of-array-except-self,Product of array except self,2,1,1,1,true,PASS,5771
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0198-two-sum-fix-reuse,Two sum (fix reuse),2,1,1,1,true,PASS,5562
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0099-largest-number-formed-by-joining,Largest number formed by joining,2,1,1,1,true,PASS,4552
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0048-integer-to-roman,Integer to Roman,2,1,1,1,true,PASS,3004
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0004-elevator-commute-distance,Elevator commute distance,1,1,1,1,true,PASS,2401
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0094-house-robber,House robber,2,1,1,1,true,PASS,4241
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0154-kth-largest-element,Kth largest element,2,1,1,1,true,PASS,11249
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,code-reading,task-0287-short-circuit-or-assignment,Short-circuit OR assignment,1,1,0,0,false,FAIL,4099
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0286-freeform-probability-monty-variant,Freeform probability Monty variant,3,1,1,1,true,PASS,2471
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0083-left-and-right-sum-differences,Left and right sum differences,1,1,1,1,true,PASS,5035
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0211-missing-number,Missing number,2,1,1,1,true,PASS,1993
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,math,task-0241-gcd-of-84-and-30,gcd of 84 and 30,2,1,1,1,true,PASS,1705
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0272-probability-conditional,Probability conditional,2,1,1,1,true,PASS,1980
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0124-sum-of-digits,Sum of digits,1,1,1,1,true,PASS,2739
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0196-merge-intervals,Merge intervals,2,1,1,1,true,PASS,3642
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0158-largest-rectangle-in-histogram,Largest rectangle in histogram,3,1,1,1,true,PASS,3982
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0268-causality-vs-correlation,Causality vs correlation,2,1,0,0,false,FAIL,4280
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0110-burst-balloons,Burst balloons,3,1,1,1,true,PASS,6725
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0032-zero-downtime-service-migration,Zero-downtime service migration,2,1,1,1,true,PASS,10170
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0077-number-of-good-pairs,Number of good pairs,1,1,1,1,true,PASS,2157
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0061-merge-strings-alternately,Merge strings alternately,1,1,1,1,true,PASS,4870
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0010-deadline-resource-scheduler,Deadline resource scheduler,2,1,0,0,false,FAIL,54418
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,math,task-0247-modular-exponentiation,Modular exponentiation,1,1,1,1,true,PASS,3434
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0067-string-to-integer-atoi,String to integer (atoi),2,1,1,1,true,PASS,27916
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0098-repeated-dna-sequences,Repeated DNA sequences,2,1,1,1,true,PASS,6972
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0097-zigzag-conversion,Zigzag conversion,2,1,1,1,true,PASS,9142
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0084-longest-palindromic-substring,Longest palindromic substring,2,1,1,1,true,PASS,8011
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0269-ambiguous-trick-wording,Ambiguous trick wording,2,1,0,0,false,FAIL,1804
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,math,task-0238-modular-power-2-10-mod-7,Modular power 2^10 mod 7,1,1,0,0,false,FAIL,2352
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0114-max-points-on-a-line,Max points on a line,3,1,0,0,false,FAIL,54250
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,code-reading,task-0303-recursion-unwinding-order,Recursion unwinding order,3,1,0,0,false,FAIL,3222
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0022-min-refuel-stops,Min refuel stops,3,1,1,1,true,PASS,47778
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0073-count-odd-numbers-in-an-interval,Count odd numbers in an interval,1,1,1,1,true,PASS,11675
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0101-fraction-to-recurring-decimal,Fraction to recurring decimal,2,1,1,1,true,PASS,27910
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0229-word-break,Word break,3,1,1,1,true,PASS,36531
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0185-average-of-list,Average of list,1,1,1,1,true,PASS,1386
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0014-token-scanner,Token scanner,2,1,1,1,true,PASS,3805
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,math,task-0240-integral-of-sin-x-on-0-pi,"""Integral of sin x on [0, pi]""",2,1,1,1,true,PASS,1956
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0179-min-candies-distribution,Min candies distribution,3,1,1,1,true,PASS,3431
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0033-debug-a-memory-leak-in-a-daemon,Debug a memory leak in a daemon,2,1,1,1,true,PASS,17717
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0031-diagnose-failing-ci-after-a-merge,Diagnose failing CI after a merge,2,1,0,0,false,FAIL,54641
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0189-first-positive-index,First positive index,1,1,1,1,true,PASS,1888
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0001-robot-footprints,Robot footprints,1,1,1,1,true,PASS,5435
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0271-scheduling-conflict-deduce,Scheduling conflict deduce,2,1,1,1,true,PASS,3706
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0107-first-missing-positive,First missing positive,3,1,1,1,true,PASS,4462
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0191-last-element,Last element,1,1,1,1,true,PASS,1826
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0082-halves-are-alike,Halves are alike,1,1,1,1,true,PASS,4809
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0081-maximum-69-number,Maximum 69 number,1,1,1,1,true,PASS,2727
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0166-max-profit-job-scheduling,Max profit job scheduling,3,1,0.8571,0.8571,false,PARTIAL,12093
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,code-reading,task-0288-string-slice-indices,String slice indices,1,1,1,1,true,PASS,2735
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0068-longest-substring-without-repeating-char,Longest substring without repeating characters,2,1,1,1,true,PASS,3634
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0190-palindrome-string-check,Palindrome string check,1,1,1,1,true,PASS,2863
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0276-complex-truth-teller-logic,Complex truth-teller logic,3,1,0,0,false,FAIL,52410
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0085-rotate-array-right-by-k,Rotate array right by k,2,1,1,1,true,PASS,5285
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0277-monty-hall-with-variant,Monty Hall with variant,3,1,0,0,false,FAIL,4365
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0024-paragraph-formatter,Paragraph formatter,3,1,0,0,false,FAIL,53911
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0008-run-length-decompressor,Run-length decompressor,1,1,1,1,true,PASS,8354
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0270-venn-three-category,Venn three-category,2,1,1,1,true,PASS,2488
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0045-longest-common-prefix,Longest common prefix,1,1,1,1,true,PASS,4572
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0018-build-order-planner,Build order planner,2,1,1,1,true,PASS,44471
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0178-largest-number-from-array,Largest number from array,2,1,1,1,true,PASS,10228
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0012-token-bucket-rate-limiter,Token bucket rate limiter,2,1,1,1,true,PASS,5178
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0060-can-place-flowers,Can place flowers,2,1,1,1,true,PASS,11704
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0109-edit-distance,Edit distance,3,1,1,1,true,PASS,3290
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0138-max-profit-one-transaction,Max profit one transaction,2,1,1,1,true,PASS,2665
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0284-freeform-weighing-minimum,Freeform weighing minimum,3,1,1,1,true,PASS,1962
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0113-largest-rectangle-in-histogram,Largest rectangle in histogram,3,1,1,1,true,PASS,4250
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0216-first-unique-character,First unique character,2,1,1,1,true,PASS,2058
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0193-fibonacci-n-th-term,Fibonacci n-th term,1,1,1,1,true,PASS,2935
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0157-split-array-largest-sum,Split array largest sum,3,1,1,1,true,PASS,6814
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0106-median-of-two-sorted-arrays,Median of two sorted arrays,3,1,1,1,true,PASS,11679
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0100-kth-largest-element-in-array,Kth largest element in array,2,1,0,0,false,FAIL,53923
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0050-container-with-most-water,Container with most water,2,1,1,1,true,PASS,3289
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0078-defang-ip-address,Defang IP address,1,1,1,1,true,PASS,1358
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0236-basic-calculator-ii,Basic calculator II,3,1,0,0,false,FAIL,53379
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0053-is-subsequence,Is subsequence,1,1,1,1,true,PASS,3486
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0197-longest-consecutive-sequence,Longest consecutive sequence,2,1,1,1,true,PASS,6630
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0021-campus-network-cabling,Campus network cabling,3,1,1,1,true,PASS,7804
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,math,task-0243-exactly-two-heads-in-three-flips,Exactly two heads in three flips,2,1,1,1,true,PASS,2193
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0038-automate-an-on-call-runbook-response,Automate an on-call runbook response,3,1,1,1,true,PASS,19384
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0233-first-missing-positive,First missing positive,3,1,1,1,true,PASS,10054
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0175-multiply-large-numbers,Multiply large numbers,2,1,1,1,true,PASS,28752
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0070-duplicate-zeros,Duplicate zeros,1,1,0,0,false,FAIL,53095
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0030-deploy-service-to-staging,Deploy service to staging,1,1,1,1,true,PASS,8695
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0049-roman-to-integer,Roman to Integer,2,1,1,1,true,PASS,3485
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0209-plus-one-carry,Plus one (carry),2,1,1,1,true,PASS,3521
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0215-move-zeroes,Move zeroes,2,1,1,1,true,PASS,4548
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0088-decode-string,Decode string,2,1,1,1,true,PASS,6624
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0135-task-scheduler,Task scheduler,2,1,1,1,true,PASS,3380
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0080-smallest-even-multiple,Smallest even multiple,1,1,1,1,true,PASS,3076
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0206-anagram-check,Anagram check,2,1,1,1,true,PASS,5148
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0034-onboard-a-teammate-to-local-development,Onboard a teammate to local development,2,1,1,1,true,PASS,12351
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0041-two-sum-return-indices,Two Sum — return indices,1,1,1,1,true,PASS,4531
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0182-maximum-value,Maximum value,1,1,1,1,true,PASS,2250
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0059-kids-with-greatest-candies,Kids with greatest candies,1,1,1,1,true,PASS,2207
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0160-min-initial-health-in-grid,Min initial health in grid,3,1,1,1,true,PASS,36187
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0213-roman-to-integer,Roman to integer,2,1,1,1,true,PASS,2727
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0036-trace-a-slow-request-across-services,Trace a slow request across services,3,1,1,1,true,PASS,12576
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0202-first-word-repeated,First word repeated,2,1,1,1,true,PASS,14342
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0092-plus-one,Plus one,2,1,1,1,true,PASS,6789
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0117-merge-k-sorted-lists,Merge k sorted lists,3,1,1,1,true,PASS,11610
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0003-directory-resolver,Directory resolver,1,1,1,1,true,PASS,4811
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,math,task-0250-integer-partitions,Integer partitions,3,1,1,1,true,PASS,2233
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,math,task-0246-integral-of-x-2-x-on-0-2,"""Integral of x^2 + x on [0,2]""",3,1,1,1,true,PASS,4811
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0105-sliding-window-maximum,Sliding window maximum,3,1,1,1,true,PASS,4010
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0226-trapping-rain-water,Trapping rain water,3,1,1,1,true,PASS,3113
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0054-find-pivot-index,Find pivot index,1,1,1,1,true,PASS,2664
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0147-min-subarray-length-sum-target,Min subarray length sum >= target,2,1,1,1,true,PASS,2911
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,code-reading,task-0302-try-except-else-ordering,try/except else ordering,3,1,0,0,false,FAIL,3169
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0072-find-the-difference,Find the difference,1,1,1,1,true,PASS,3190
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0128-count-negatives-in-grid,Count negatives in grid,1,1,1,1,true,PASS,7531
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0207-longest-common-prefix,Longest common prefix,2,1,1,1,true,PASS,3323
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0140-count-triplets-equal-sum,Count triplets equal sum,2,1,0,0,false,FAIL,54634
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,code-reading,task-0291-modulo-sign,Modulo sign,1,1,1,1,true,PASS,1307
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0129-maximum-row-sum,Maximum row sum,1,1,1,1,true,PASS,1890
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0177-number-of-coin-combinations,Number of coin combinations,3,1,1,1,true,PASS,3677
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0192-contains-substring,Contains substring,1,1,1,1,true,PASS,1530
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0267-basic-venn-overlap,Basic Venn overlap,1,1,1,1,true,PASS,1726
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0123-sorted-array-intersection,Sorted array intersection,1,1,1,1,true,PASS,2306
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0171-rotate-array-right-by-k,Rotate array right by k,2,1,0.375,0.375,false,PARTIAL,3939
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0069-top-k-frequent-elements,Top K frequent elements,2,1,0,0,false,FAIL,5774
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,code-reading,task-0300-async-function-returns-promise,Async function returns Promise,2,1,1,1,true,PASS,1531
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0096-isomorphic-strings,Isomorphic strings,2,1,1,1,true,PASS,3269
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0183-reverse-a-string,Reverse a string,1,1,1,1,true,PASS,1706
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,code-reading,task-0296-mutability-aliasing-in-python,Mutability aliasing in Python,2,1,0,0,false,FAIL,2662
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0232-median-of-two-sorted-arrays,Median of two sorted arrays,3,1,1,1,true,PASS,3291
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0159-edit-distance,Edit distance,3,1,1,1,true,PASS,3233
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,math,task-0239-integral-of-6x-2-on-0-1,"""Integral of 6x^2 on [0,1]""",1,1,0,0,false,FAIL,1989
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0104-trapping-rain-water,Trapping rain water,3,1,1,1,true,PASS,2520
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0064-increasing-triplet-subsequence,Increasing triplet subsequence,2,1,1,1,true,PASS,4406
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0065-string-compression,String compression,2,1,0,0,false,FAIL,54194
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0273-two-liar-knight-compound,Two liar-knight compound,3,1,1,1,true,PASS,5087
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0223-happy-number,Happy number,2,1,1,1,true,PASS,4002
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0214-climbing-stairs,Climbing stairs,2,1,1,1,true,PASS,3121
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0119-valid-sudoku,Valid Sudoku,3,1,1,1,true,PASS,3206
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,code-reading,task-0293-boolean-or-of-truthy-values,Boolean OR of truthy values,1,1,1,1,true,PASS,1655
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0133-can-attend-all-meetings,Can attend all meetings,2,1,1,1,true,PASS,2585
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0093-jump-game,Jump game,2,1,1,1,true,PASS,7329
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0115-palindrome-pairs,Palindrome pairs,3,1,0,0,false,FAIL,55839
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0011-turnstile-event-simulator,Turnstile event simulator,2,1,1,1,true,PASS,3168
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0139-max-water-container,Max water container,2,1,1,1,true,PASS,3118
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0136-jump-game,Jump game,2,1,1,1,true,PASS,4927
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0103-max-consecutive-ones-with-one-flip,Max consecutive ones with one flip,2,1,1,1,true,PASS,3631
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0274-weighing-ambiguous-weight,Weighing ambiguous weight,3,1,0,0,false,FAIL,9887
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0062-greatest-common-divisor-of-strings,Greatest common divisor of strings,2,1,1,1,true,PASS,2404
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0027-cheapest-flight-within-k-stops,Cheapest flight within k stops,3,1,1,1,true,PASS,8382
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0227-edit-distance,Edit distance,3,1,1,1,true,PASS,3177
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0074-sum-of-unique-elements,Sum of unique elements,1,1,1,1,true,PASS,5349
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0172-count-subsets-summing-to-target,Count subsets summing to target,2,1,1,1,true,PASS,5569
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0015-election-scrutineer,Election scrutineer,2,1,1,1,true,PASS,2314
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0116-remove-duplicate-letters-smallest-lexico,Remove duplicate letters (smallest lexicographic),3,1,1,1,true,PASS,46354
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,knowledge,task-0261-cap-theorem-precise-statement,CAP Theorem Precise Statement,3,1,1,1,true,PASS,4258
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0108-lru-cache-operation-sequence,LRU cache (operation sequence),3,1,1,1,true,PASS,7943
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,knowledge,task-0256-coffman-conditions-which-is-not-one,Coffman Conditions — Which Is Not One?,2,1,1,1,true,PASS,6112
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0076-shuffle-string,Shuffle string,1,1,1,1,true,PASS,3029
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,code-reading,task-0305-recursion-depth-output,Recursion depth output,3,1,1,1,true,PASS,3360
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0195-prime-check,Prime check,1,1,1,1,true,PASS,3703
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0263-river-crossing-feasibility,River crossing feasibility,1,1,1,1,true,PASS,2629
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0194-absolute-value,Absolute value,1,1,1,1,true,PASS,2125
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,reasoning,task-0282-freeform-river-crossing-count,Freeform river crossing count,2,1,1,1,true,PASS,2112
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0230-largest-rectangle-in-histogram,Largest rectangle in histogram,3,1,1,1,true,PASS,6646
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0009-grid-pathfinding-agent,Grid pathfinding agent,2,1,1,1,true,PASS,10404
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,code-reading,task-0295-promise-microtask-ordering,Promise microtask ordering,2,1,0,0,false,FAIL,6402
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-bugfix,task-0219-sort-even-and-odd-indices,Sort even and odd indices,2,1,1,1,true,PASS,5052
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0146-wiggle-subsequence-length,Wiggle subsequence length,2,1,1,1,true,PASS,11476
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0164-unique-paths-on-grid,Unique paths on grid,2,1,0,0,false,FAIL,55503
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0029-merge-latest-fix-into-feature-branch,Merge latest fix into feature branch,1,1,1,1,true,PASS,43253
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,math,task-0251-count-numbers-avoiding-a-digit,Count numbers avoiding a digit,3,1,0,0,false,FAIL,54130
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-implementation,task-0102-push-dominoes,Push dominoes,2,1,0,0,false,FAIL,56081
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,coding-algorithm,task-0167-stock-with-cooldown-max-profit,Stock with cooldown max profit,3,1,0,0,false,FAIL,56714
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,agentic,task-0026-word-ladder-agent,Word ladder agent,3,1,0,0,false,FAIL,54436

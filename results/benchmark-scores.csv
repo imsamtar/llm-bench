@@ -4,3 +4,4 @@ timestamp,iso,model_id,base_url,total_tasks,total_max,total_score,overall_pct
 2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,306,306,273.25,89.3
 2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,306,306,263.38,86.07
 2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,306,306,260.28,85.06
+2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,306,306,255.16,83.38
