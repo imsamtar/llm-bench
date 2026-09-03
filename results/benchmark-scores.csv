@@ -1,3 +1,6 @@
 timestamp,iso,model_id,base_url,total_tasks,total_max,total_score,overall_pct
 2026-09-03T07-53-41,2026-09-03T07:53:41.849Z,Qwen3.6-35B-A3B-oQ4e-fp16-mtp,http://localhost:8000/v1,306,306,265.92,86.9
 2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,306,306,218.23,71.32
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,306,306,273.25,89.3
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,306,306,263.38,86.07
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,306,306,260.28,85.06

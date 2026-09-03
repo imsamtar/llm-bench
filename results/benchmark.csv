@@ -611,3 +611,921 @@ timestamp,iso,model_id,base_url,category,task_id,title,difficulty,max_score,scor
 2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,agentic,task-0283-disk-head-scheduler,Disk head scheduler,2,1,0,0,false,FAIL,986660
 2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0102-burst-balloons-max-coins,Burst balloons max coins,3,1,0,0,false,FAIL,973359
 2026-09-03T13-02-03,2026-09-03T13:02:03.179Z,Qwen3.8-27B-oQ4e-fp16-mtp,http://localhost:8000/v1,coding-algorithm,task-0126-multiply-large-numbers,Multiply large numbers,2,1,0,0,false,FAIL,959412
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0298-freeform-handshakes,Freeform handshakes,1,1,1,1,true,PASS,3333
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,math,task-0247-sum-of-1-to-100,Sum of 1 to 100,1,1,1,1,true,PASS,3824
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0180-sorted-array-intersection,Sorted array intersection,1,1,1,1,true,PASS,3896
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0285-basic-logical-converse,Basic logical converse,1,1,1,1,true,PASS,4335
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0138-two-sum-fix-reuse,Two sum (fix reuse),2,1,1,1,true,PASS,4747
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0059-kids-with-greatest-candies,Kids with greatest candies,1,1,1,1,true,PASS,4757
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,code-reading,task-0264-integer-division-truncation,Integer division truncation,1,1,0,0,false,FAIL,1640
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0161-two-pointer-container-water,Two-pointer container water,2,1,1,1,true,PASS,1840
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,knowledge,task-0244-bloom-filter-false-positive-property,Bloom Filter False Positive Property,3,1,1,1,true,PASS,3574
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0175-number-of-islands,Number of islands,3,1,1,1,true,PASS,7000
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0133-fibonacci-n-th-term,Fibonacci n-th term,1,1,1,1,true,PASS,3184
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0082-halves-are-alike,Halves are alike,1,1,1,1,true,PASS,2947
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0160-find-the-single-number-xor,Find the single number (XOR),2,1,1,1,true,PASS,2229
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,math,task-0250-integral-of-sin-x-on-0-pi,"""Integral of sin x on [0, pi]""",2,1,1,1,true,PASS,2102
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0076-shuffle-string,Shuffle string,1,1,0.8,0.8,false,PARTIAL,3849
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0150-reverse-words-in-string,Reverse words in string,2,1,1,1,true,PASS,3322
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0122-maximum-value,Maximum value,1,1,1,1,true,PASS,1915
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0228-rotate-array-right-by-k,Rotate array right by k,2,1,0.375,0.375,false,PARTIAL,2944
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0235-largest-number-from-array,Largest number from array,2,1,0.375,0.375,false,PARTIAL,4771
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0156-first-unique-character,First unique character,2,1,1,1,true,PASS,1919
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0157-reverse-integer,Reverse integer,2,1,1,1,true,PASS,2478
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0120-sum-of-an-array,Sum of an array,1,1,1,1,true,PASS,2181
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0129-first-positive-index,First positive index,1,1,1,1,true,PASS,2762
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,code-reading,task-0274-js-left-shift-overflow,JS left shift overflow,2,1,1,1,true,PASS,4378
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0030-deploy-service-to-staging,Deploy service to staging,1,1,1,1,true,PASS,10339
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0296-complex-truth-teller-logic,Complex truth-teller logic,3,1,0,0,false,FAIL,20341
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0116-remove-duplicate-letters-smallest-lexico,Remove duplicate letters (smallest lexicographic),3,1,1,1,true,PASS,2907
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0049-roman-to-integer,Roman to Integer,2,1,1,1,true,PASS,9390
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0216-edit-distance,Edit distance,3,1,1,1,true,PASS,4517
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0209-word-break,Word break,3,1,1,1,true,PASS,2839
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0063-reverse-vowels-of-a-string,Reverse vowels of a string,1,1,1,1,true,PASS,3495
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0183-frequency-of-maximum,Frequency of maximum,1,1,1,1,true,PASS,3057
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0056-single-number,Single number,2,1,0,0,false,FAIL,2053
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0302-freeform-river-crossing-count,Freeform river crossing count,2,1,1,1,true,PASS,1723
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0166-trapping-rain-water,Trapping rain water,3,1,1,1,true,PASS,2845
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0096-isomorphic-strings,Isomorphic strings,2,1,1,1,true,PASS,2798
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0199-daily-temperatures,Daily temperatures,2,1,1,1,true,PASS,3465
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0173-first-missing-positive,First missing positive,3,1,1,1,true,PASS,3753
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0089-validate-ip-address,Validate IP address,2,1,1,1,true,PASS,4228
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,code-reading,task-0263-string-slice-indices,String slice indices,1,1,1,1,true,PASS,2143
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0042-reverse-word-order,Reverse word order,1,1,1,1,true,PASS,2643
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0234-number-of-coin-combinations,Number of coin combinations,3,1,1,1,true,PASS,3971
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0172-median-of-two-sorted-arrays,Median of two sorted arrays,3,1,1,1,true,PASS,2945
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0006-secretary-task-ordering,Secretary task ordering,1,1,1,1,true,PASS,3428
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0221-unique-paths-on-grid,Unique paths on grid,2,1,0,0,false,FAIL,21002
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0141-remove-duplicates-in-sorted-array,Remove duplicates in sorted array,2,1,0.6667,0.6667,false,PARTIAL,2938
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0218-count-palindromic-substrings,Count palindromic substrings,2,1,1,1,true,PASS,3246
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0012-token-bucket-rate-limiter,Token bucket rate limiter,2,1,1,1,true,PASS,4210
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0215-largest-rectangle-in-histogram,Largest rectangle in histogram,3,1,1,1,true,PASS,6004
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0283-river-crossing-feasibility,River crossing feasibility,1,1,1,1,true,PASS,2189
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0184-is-perfect-square,Is perfect square,1,1,1,1,true,PASS,9329
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0119-valid-sudoku,Valid Sudoku,3,1,1,1,true,PASS,3166
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0187-hamming-weight,Hamming weight,1,1,1,1,true,PASS,4470
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,code-reading,task-0277-try-except-else-ordering,try/except else ordering,3,1,0,0,false,FAIL,2452
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0149-plus-one-carry,Plus one (carry),2,1,1,1,true,PASS,3181
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0168-coin-change-min-coins,Coin change (min coins),3,1,1,1,true,PASS,2448
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,knowledge,task-0246-cap-theorem-precise-statement,CAP Theorem Precise Statement,3,1,1,1,true,PASS,10992
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0151-missing-number,Missing number,2,1,1,1,true,PASS,2076
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,code-reading,task-0268-boolean-or-of-truthy-values,Boolean OR of truthy values,1,1,1,1,true,PASS,2264
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0031-diagnose-failing-ci-after-a-merge,Diagnose failing CI after a merge,2,1,1,1,true,PASS,41083
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,math,task-0254-limit-of-sin-x-x,Limit of sin x / x,3,1,1,1,true,PASS,2253
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0018-build-order-planner,Build order planner,2,1,1,1,true,PASS,7907
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0115-palindrome-pairs,Palindrome pairs,3,1,0,0,false,FAIL,47978
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0094-house-robber,House robber,2,1,1,1,true,PASS,2875
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0022-min-refuel-stops,Min refuel stops,3,1,1,1,true,PASS,14424
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0114-max-points-on-a-line,Max points on a line,3,1,1,1,true,PASS,8270
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,code-reading,task-0269-loop-closure-over-let,Loop closure over let,2,1,0,0,false,FAIL,2521
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0159-sort-even-and-odd-indices,Sort even and odd indices,2,1,1,1,true,PASS,2612
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0083-left-and-right-sum-differences,Left and right sum differences,1,1,1,1,true,PASS,2391
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0153-roman-to-integer,Roman to integer,2,1,1,1,true,PASS,2764
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0158-first-non-repeating-word-rate,First non-repeating (word rate),2,1,1,1,true,PASS,3083
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0170-largest-rectangle-in-histogram,Largest rectangle in histogram,3,1,1,1,true,PASS,3759
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0233-count-reverse-pairs,Count reverse pairs,3,1,1,1,true,PASS,11495
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0057-counting-bits,Counting bits,2,1,1,1,true,PASS,2289
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0164-product-of-array-except-self,Product of array except self,3,1,1,1,true,PASS,4554
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0032-zero-downtime-service-migration,Zero-downtime service migration,2,1,0.75,0.75,false,PARTIAL,24188
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0009-grid-pathfinding-agent,Grid pathfinding agent,2,1,1,1,true,PASS,5692
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0043-valid-parentheses,Valid parentheses,1,1,1,1,true,PASS,5066
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,code-reading,task-0275-async-function-returns-promise,Async function returns Promise,2,1,1,1,true,PASS,2202
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0210-trapping-rain-water,Trapping rain water,2,1,1,1,true,PASS,4600
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0033-debug-a-memory-leak-in-a-daemon,Debug a memory leak in a daemon,2,1,1,1,true,PASS,38222
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0092-plus-one,Plus one,2,1,1,1,true,PASS,6558
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0091-add-binary-strings,Add binary strings,2,1,1,1,true,PASS,8980
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,code-reading,task-0278-recursion-unwinding-order,Recursion unwinding order,3,1,0,0,false,FAIL,2289
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0176-basic-calculator-ii,Basic calculator II,3,1,1,1,true,PASS,18522
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0099-largest-number-formed-by-joining,Largest number formed by joining,2,1,1,1,true,PASS,8252
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0047-merge-sorted-arrays-in-place,Merge sorted arrays in place,2,1,0.5,0.5,false,PARTIAL,3482
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0222-min-arrows-to-burst-balloons,Min arrows to burst balloons,3,1,1,1,true,PASS,4332
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0299-freeform-simple-sequence,Freeform simple sequence,1,1,1,1,true,PASS,1621
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0044-climbing-stairs,Climbing stairs,1,1,1,1,true,PASS,4207
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0192-task-scheduler,Task scheduler,2,1,1,1,true,PASS,2724
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0060-can-place-flowers,Can place flowers,2,1,1,1,true,PASS,2713
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0017-disk-head-scheduler,Disk head scheduler,2,1,1,1,true,PASS,3816
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0087-next-permutation,Next permutation,2,1,1,1,true,PASS,4554
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0146-anagram-check,Anagram check,2,1,1,1,true,PASS,4530
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0208-burst-balloons-max-coins,Burst balloons max coins,3,1,1,1,true,PASS,3935
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0282-truth-teller-or-liar,Truth-teller or liar,1,1,0,0,false,FAIL,3833
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0023-chemical-formula-counter,Chemical formula counter,3,1,1,1,true,PASS,7716
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0001-robot-footprints,Robot footprints,1,1,1,1,true,PASS,2780
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,math,task-0260-integer-partitions,Integer partitions,3,1,1,1,true,PASS,2331
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0111-candy-distribution,Candy distribution,3,1,0.8571,0.8571,false,PARTIAL,2542
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0185-count-negatives-in-grid,Count negatives in grid,1,1,1,1,true,PASS,9001
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0288-causality-vs-correlation,Causality vs correlation,2,1,0,0,false,FAIL,3333
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0113-largest-rectangle-in-histogram,Largest rectangle in histogram,3,1,1,1,true,PASS,3567
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0103-max-consecutive-ones-with-one-flip,Max consecutive ones with one flip,2,1,1,1,true,PASS,2975
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0179-count-primes-up-to-n,Count primes up to n,1,1,1,1,true,PASS,2980
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0074-sum-of-unique-elements,Sum of unique elements,1,1,1,1,true,PASS,2687
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0015-election-scrutineer,Election scrutineer,2,1,1,1,true,PASS,2296
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0226-nth-gray-code-value,Nth gray code value,1,1,1,1,true,PASS,1901
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,code-reading,task-0273-floating-point-accumulation,Floating-point accumulation,2,1,0,0,false,FAIL,3073
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0213-sliding-window-maximum,Sliding window maximum,3,1,1,1,true,PASS,5048
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0109-edit-distance,Edit distance,3,1,1,1,true,PASS,2528
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0050-container-with-most-water,Container with most water,2,1,1,1,true,PASS,3507
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0211-kth-largest-element,Kth largest element,2,1,1,1,true,PASS,6295
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0195-max-profit-one-transaction,Max profit one transaction,2,1,1,1,true,PASS,1774
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0052-move-zeroes,Move zeroes,1,1,1,1,true,PASS,3411
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,code-reading,task-0281-functional-composition-evaluation-order,Functional composition evaluation order,3,1,1,1,true,PASS,2387
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0292-probability-conditional,Probability conditional,2,1,1,1,true,PASS,2612
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0008-run-length-decompressor,Run-length decompressor,1,1,1,1,true,PASS,2715
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0188-squares-of-sorted-array,Squares of sorted array,1,1,1,1,true,PASS,2447
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0142-first-word-repeated,First word repeated,2,1,1,1,true,PASS,2491
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0118-number-of-islands,Number of islands,3,1,0.3333,0.3333,false,PARTIAL,8150
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0145-run-length-compress,Run-length compress,2,1,1,1,true,PASS,3287
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,knowledge,task-0243-direct-mapped-cache-set-selection-bits,Direct-Mapped Cache Set Selection Bits,2,1,0,0,false,FAIL,4021
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0162-guess-number-off-by-one,Guess number (off by one),2,1,1,1,true,PASS,2033
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0014-token-scanner,Token scanner,2,1,1,1,true,PASS,2965
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0019-nested-list-parser,Nested list parser,3,1,1,1,true,PASS,6076
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0035-canary-rollout-of-a-service,Canary rollout of a service,2,1,0.75,0.75,false,PARTIAL,19078
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0125-average-of-list,Average of list,1,1,1,1,true,PASS,1850
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0148-is-subsequence,Is subsequence,2,1,1,1,true,PASS,3102
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0198-subarray-sum-equals-k-count,Subarray sum equals k count,2,1,1,1,true,PASS,2773
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0088-decode-string,Decode string,2,1,1,1,true,PASS,2730
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0072-find-the-difference,Find the difference,1,1,1,1,true,PASS,3054
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0068-longest-substring-without-repeating-char,Longest substring without repeating characters,2,1,1,1,true,PASS,6919
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0108-lru-cache-operation-sequence,LRU cache (operation sequence),3,1,1,1,true,PASS,4463
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0217-min-initial-health-in-grid,Min initial health in grid,3,1,1,1,true,PASS,3722
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0003-directory-resolver,Directory resolver,1,1,1,1,true,PASS,3034
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0200-number-of-islands,Number of Islands,2,1,0.2857,0.2857,false,PARTIAL,5472
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,math,task-0256-integral-of-x-2-x-on-0-2,"""Integral of x^2 + x on [0,2]""",3,1,1,1,true,PASS,2072
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,math,task-0249-integral-of-6x-2-on-0-1,"""Integral of 6x^2 on [0,1]""",1,1,1,1,true,PASS,2059
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0126-count-vowels,Count vowels,1,1,1,1,true,PASS,1799
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0121-count-even-numbers,Count even numbers,1,1,1,1,true,PASS,2656
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0086-sort-colors,Sort colors,2,1,1,1,true,PASS,2873
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0227-k-closest-points-to-origin,K closest points to origin,2,1,1,1,true,PASS,3139
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0054-find-pivot-index,Find pivot index,1,1,1,1,true,PASS,2072
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0024-paragraph-formatter,Paragraph formatter,3,1,0,0,false,FAIL,12939
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0104-trapping-rain-water,Trapping rain water,3,1,1,1,true,PASS,8919
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0084-longest-palindromic-substring,Longest palindromic substring,2,1,1,1,true,PASS,9693
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0174-largest-number-from-array,Largest number from array,3,1,1,1,true,PASS,3022
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,code-reading,task-0266-modulo-sign,Modulo sign,1,1,1,1,true,PASS,1628
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,code-reading,task-0280-recursion-depth-output,Recursion depth output,3,1,1,1,true,PASS,4247
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,math,task-0259-dice-sum-ways,Dice sum ways,2,1,1,1,true,PASS,3345
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0207-median-of-two-sorted-arrays,Median of two sorted arrays,3,1,1,1,true,PASS,8646
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0295-paradox-self-reference,Paradox self-reference,3,1,0,0,false,FAIL,2986
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0021-campus-network-cabling,Campus network cabling,3,1,1,1,true,PASS,5159
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0100-kth-largest-element-in-array,Kth largest element in array,2,1,1,1,true,PASS,13921
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0143-majority-element,Majority element,2,1,1,1,true,PASS,3307
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0066-group-anagrams,Group anagrams,2,1,1,1,true,PASS,2122
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0136-merge-intervals,Merge intervals,2,1,1,1,true,PASS,3207
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0073-count-odd-numbers-in-an-interval,Count odd numbers in an interval,1,1,1,1,true,PASS,2586
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,knowledge,task-0241-coffman-conditions-which-is-not-one,Coffman Conditions — Which Is Not One?,2,1,1,1,true,PASS,4851
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0112-basic-calculator-ii,Basic calculator II,3,1,1,1,true,PASS,9842
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0011-turnstile-event-simulator,Turnstile event simulator,2,1,1,1,true,PASS,2804
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,knowledge,task-0238-tcp-vs-udp-delivery-guarantee,TCP vs UDP Delivery Guarantee,1,1,0,0,false,FAIL,3331
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0304-freeform-weighing-minimum,Freeform weighing minimum,3,1,1,1,true,PASS,1882
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0163-happy-number,Happy number,2,1,1,1,true,PASS,2972
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,math,task-0253-exactly-two-heads-in-three-flips,Exactly two heads in three flips,2,1,1,1,true,PASS,2291
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,knowledge,task-0237-binary-search-worst-case-time-complexity,Binary Search Worst-Case Time Complexity,1,1,1,1,true,PASS,3064
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0038-automate-an-on-call-runbook-response,Automate an on-call runbook response,3,1,1,1,true,PASS,37755
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0067-string-to-integer-atoi,String to integer (atoi),2,1,1,1,true,PASS,11549
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0124-factorial,Factorial,1,1,1,1,true,PASS,2356
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0293-two-liar-knight-compound,Two liar-knight compound,3,1,0,0,false,FAIL,3028
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,knowledge,task-0242-tcp-slow-start-window-growth,TCP Slow Start Window Growth,2,1,0,0,false,FAIL,2827
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0070-duplicate-zeros,Duplicate zeros,1,1,1,1,true,PASS,14479
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,code-reading,task-0276-nested-closure-captures-final-value,Nested closure captures final value,3,1,0,0,false,FAIL,1998
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0040-recover-from-a-bad-commit-in-shared-hist,Recover from a bad commit in shared history,3,1,1,1,true,PASS,31965
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0190-can-attend-all-meetings,Can attend all meetings,2,1,1,1,true,PASS,2504
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0075-ransom-note,Ransom note,1,1,1,1,true,PASS,2904
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,code-reading,task-0270-promise-microtask-ordering,Promise microtask ordering,2,1,0,0,false,FAIL,2482
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0010-deadline-resource-scheduler,Deadline resource scheduler,2,1,1,1,true,PASS,6608
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,math,task-0252-determinant-of-2x2,Determinant of 2x2,2,1,1,1,true,PASS,2535
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0191-longest-consecutive-sequence,Longest consecutive sequence,2,1,1,1,true,PASS,2455
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0301-freeform-two-child-conditional,Freeform two-child conditional,2,1,1,1,true,PASS,1593
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0013-bracket-validator,Bracket validator,2,1,1,1,true,PASS,3549
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0039-design-a-self-healing-autoscaling-strate,Design a self-healing autoscaling strategy,3,1,1,1,true,PASS,31216
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0127-count-negatives,Count negatives,1,1,1,1,true,PASS,2562
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0106-median-of-two-sorted-arrays,Median of two sorted arrays,3,1,1,1,true,PASS,13213
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0171-sliding-window-maximum,Sliding window maximum,3,1,1,1,true,PASS,2928
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0102-push-dominoes,Push dominoes,2,1,1,1,true,PASS,6446
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0090-simplify-path,Simplify path,2,1,1,1,true,PASS,3851
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0036-trace-a-slow-request-across-services,Trace a slow request across services,3,1,1,1,true,PASS,27871
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,knowledge,task-0240-np-completeness-precise-definition,NP-Completeness Precise Definition,2,1,1,1,true,PASS,3198
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0130-palindrome-string-check,Palindrome string check,1,1,1,1,true,PASS,2738
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0128-sum-of-squares,Sum of squares,1,1,1,1,true,PASS,2053
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,math,task-0261-count-numbers-avoiding-a-digit,Count numbers avoiding a digit,3,1,1,1,true,PASS,27041
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0154-climbing-stairs,Climbing stairs,2,1,1,1,true,PASS,2590
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0026-word-ladder-agent,Word ladder agent,3,1,1,1,true,PASS,5971
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0286-handshake-count-single,Handshake count single,1,1,1,1,true,PASS,2183
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0196-max-water-container,Max water container,2,1,1,1,true,PASS,2566
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0232-multiply-large-numbers,Multiply large numbers,2,1,1,1,true,PASS,29338
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0020-tic-tac-toe-game-solver,Tic-tac-toe game solver,3,1,1,1,true,PASS,6103
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0123-reverse-a-string,Reverse a string,1,1,1,1,true,PASS,2510
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0098-repeated-dna-sequences,Repeated DNA sequences,2,1,1,1,true,PASS,2809
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0002-vending-machine-change,Vending machine change,1,1,0,0,false,FAIL,3849
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,math,task-0258-3x3-determinant,3x3 determinant,2,1,1,1,true,PASS,2211
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0214-split-array-largest-sum,Split array largest sum,3,1,1,1,true,PASS,4345
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0290-venn-three-category,Venn three-category,2,1,1,1,true,PASS,2695
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0097-zigzag-conversion,Zigzag conversion,2,1,1,1,true,PASS,3887
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0203-wiggle-subsequence-length,Wiggle subsequence length,2,1,1,1,true,PASS,3213
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0081-maximum-69-number,Maximum 69 number,1,1,1,1,true,PASS,3298
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0305-freeform-hard-sequence,Freeform hard sequence,3,1,1,1,true,PASS,1840
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0131-last-element,Last element,1,1,1,1,true,PASS,1838
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0110-burst-balloons,Burst balloons,3,1,1,1,true,PASS,6062
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0236-min-candies-distribution,Min candies distribution,3,1,1,1,true,PASS,3403
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,knowledge,task-0239-utf-8-maximum-bytes-per-code-point,UTF-8 Maximum Bytes Per Code Point,1,1,1,1,true,PASS,2192
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0294-weighing-ambiguous-weight,Weighing ambiguous weight,3,1,0,0,false,FAIL,7323
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0181-sum-of-digits,Sum of digits,1,1,1,1,true,PASS,2240
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,code-reading,task-0271-mutability-aliasing-in-python,Mutability aliasing in Python,2,1,0,0,false,FAIL,2205
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0132-contains-substring,Contains substring,1,1,1,1,true,PASS,2212
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0107-first-missing-positive,First missing positive,3,1,1,1,true,PASS,4985
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0077-number-of-good-pairs,Number of good pairs,1,1,1,1,true,PASS,1987
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0058-missing-number,Missing number,1,1,1,1,true,PASS,2127
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0289-ambiguous-trick-wording,Ambiguous trick wording,2,1,1,1,true,PASS,2443
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0071-squares-of-a-sorted-array,Squares of a sorted array,1,1,1,1,true,PASS,3014
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0069-top-k-frequent-elements,Top K frequent elements,2,1,0,0,false,FAIL,5040
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,code-reading,task-0267-bitwise-and-of-powers,Bitwise AND of powers,1,1,1,1,true,PASS,2211
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0029-merge-latest-fix-into-feature-branch,Merge latest fix into feature branch,1,1,1,1,true,PASS,7944
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0005-stack-operator,Stack operator,1,1,1,1,true,PASS,3114
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0152-maximum-subarray-kadane,Maximum subarray (Kadane),2,1,1,1,true,PASS,3973
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0025-minimum-window-finder,Minimum window finder,3,1,1,1,true,PASS,6046
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0169-word-break,Word break,3,1,1,1,true,PASS,4958
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0139-valid-parentheses-matching,Valid parentheses (matching),2,1,1,1,true,PASS,3489
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0051-product-of-array-except-self,Product of array except self,2,1,1,1,true,PASS,2571
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0007-keyword-ranking-agent,Keyword ranking agent,1,1,1,1,true,PASS,4296
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0080-smallest-even-multiple,Smallest even multiple,1,1,1,1,true,PASS,2103
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,code-reading,task-0265-array-pop-return-value,Array pop return value,1,1,1,1,true,PASS,1790
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0041-two-sum-return-indices,Two Sum — return indices,1,1,1,1,true,PASS,1806
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0197-count-triplets-equal-sum,Count triplets equal sum,2,1,0.25,0.25,false,PARTIAL,4982
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0204-min-subarray-length-sum-target,Min subarray length sum >= target,2,1,1,1,true,PASS,2972
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0205-maximum-product-subarray,Maximum product subarray,3,1,1,1,true,PASS,5582
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0201-course-schedule-cycle-check,Course schedule cycle check,2,1,1,1,true,PASS,3432
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0004-elevator-commute-distance,Elevator commute distance,1,1,1,1,true,PASS,2418
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0224-stock-with-cooldown-max-profit,Stock with cooldown max profit,3,1,1,1,true,PASS,6732
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0101-fraction-to-recurring-decimal,Fraction to recurring decimal,2,1,1,1,true,PASS,7858
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0079-find-nearest-valid-point,Find nearest valid point,1,1,1,1,true,PASS,3233
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0194-house-robber,House robber,2,1,1,1,true,PASS,2306
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0219-longest-valid-parentheses,Longest valid parentheses,3,1,1,1,true,PASS,3805
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0137-longest-consecutive-sequence,Longest consecutive sequence,2,1,1,1,true,PASS,3428
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,math,task-0255-arrangements-of-mississippi,Arrangements of MISSISSIPPI,3,1,1,1,true,PASS,2487
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0300-freeform-bat-and-ball,Freeform bat and ball,2,1,1,1,true,PASS,1821
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0231-count-derangements,Count derangements,3,1,0,0,false,FAIL,11706
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,math,task-0248-modular-power-2-10-mod-7,Modular power 2^10 mod 7,1,1,1,1,true,PASS,2475
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0135-prime-check,Prime check,1,1,1,1,true,PASS,2859
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0186-maximum-row-sum,Maximum row sum,1,1,1,1,true,PASS,1614
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0055-running-sum,Running sum,1,1,1,1,true,PASS,2537
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0182-contains-duplicate,Contains duplicate,1,1,1,1,true,PASS,1969
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0225-longest-mountain,Longest mountain,2,1,1,1,true,PASS,3334
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0061-merge-strings-alternately,Merge strings alternately,1,1,1,1,true,PASS,2523
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0034-onboard-a-teammate-to-local-development,Onboard a teammate to local development,2,1,1,1,true,PASS,15604
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0155-move-zeroes,Move zeroes,2,1,1,1,true,PASS,2395
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0140-binary-search-direction,Binary search direction,2,1,1,1,true,PASS,2326
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0027-cheapest-flight-within-k-stops,Cheapest flight within k stops,3,1,1,1,true,PASS,3567
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0062-greatest-common-divisor-of-strings,Greatest common divisor of strings,2,1,1,1,true,PASS,2003
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0229-count-subsets-summing-to-target,Count subsets summing to target,2,1,1,1,true,PASS,9677
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0144-rotate-array-right-by-k,Rotate array right by k,2,1,1,1,true,PASS,3396
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0053-is-subsequence,Is subsequence,1,1,1,1,true,PASS,3378
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0291-scheduling-conflict-deduce,Scheduling conflict deduce,2,1,1,1,true,PASS,3795
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0287-basic-venn-overlap,Basic Venn overlap,1,1,1,1,true,PASS,1816
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,code-reading,task-0272-this-binding-in-method-call,this binding in method call,2,1,0,0,false,FAIL,3616
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0284-simple-sequence-extrapolation,Simple sequence extrapolation,1,1,1,1,true,PASS,1979
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0048-integer-to-roman,Integer to Roman,2,1,1,1,true,PASS,3436
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0105-sliding-window-maximum,Sliding window maximum,3,1,1,1,true,PASS,6364
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0189-merge-intervals,Merge intervals,2,1,1,1,true,PASS,4290
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0065-string-compression,String compression,2,1,0.2,0.2,false,PARTIAL,2781
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0220-decode-ways,Decode ways,3,1,1,1,true,PASS,3350
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,code-reading,task-0262-short-circuit-or-assignment,Short-circuit OR assignment,1,1,0,0,false,FAIL,1753
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0202-minimum-coins-to-amount,Minimum coins to amount,2,1,1,1,true,PASS,3119
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0206-longest-increasing-subsequence,Longest increasing subsequence,3,1,1,1,true,PASS,3409
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0193-jump-game,Jump game,2,1,1,1,true,PASS,3910
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0178-second-largest-element,Second largest element,1,1,1,1,true,PASS,6066
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0093-jump-game,Jump game,2,1,1,1,true,PASS,2324
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0212-minimum-path-in-grid,Minimum path in grid,2,1,1,1,true,PASS,2992
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0064-increasing-triplet-subsequence,Increasing triplet subsequence,2,1,1,1,true,PASS,3852
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0167-edit-distance,Edit distance,3,1,1,1,true,PASS,2811
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0028-minimum-jumps-agent,Minimum jumps agent,3,1,1,1,true,PASS,2899
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0177-target-sum-pair-count,Target sum pair count,1,1,1,1,true,PASS,2366
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0303-freeform-venn-counting,Freeform Venn counting,2,1,1,1,true,PASS,2015
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0230-next-permutation,Next permutation,3,1,0.25,0.25,false,PARTIAL,4386
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0095-word-pattern,Word pattern,2,1,1,1,true,PASS,3843
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0046-palindrome-number,Palindrome number,1,1,1,1,true,PASS,3215
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0085-rotate-array-right-by-k,Rotate array right by k,2,1,1,1,true,PASS,3943
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0147-longest-common-prefix,Longest common prefix,2,1,0.8571,0.8571,false,PARTIAL,4318
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,math,task-0251-gcd-of-84-and-30,gcd of 84 and 30,2,1,1,1,true,PASS,1879
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0297-monty-hall-with-variant,Monty Hall with variant,3,1,1,1,true,PASS,3225
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0223-max-profit-job-scheduling,Max profit job scheduling,3,1,1,1,true,PASS,6608
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0078-defang-ip-address,Defang IP address,1,1,1,1,true,PASS,1483
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0134-absolute-value,Absolute value,1,1,1,1,true,PASS,4423
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,reasoning,task-0306-freeform-probability-monty-variant,Freeform probability Monty variant,3,1,1,1,true,PASS,2521
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0045-longest-common-prefix,Longest common prefix,1,1,1,1,true,PASS,2927
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0165-longest-palindromic-substring,Longest palindromic substring,3,1,1,1,true,PASS,2847
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,math,task-0257-modular-exponentiation,Modular exponentiation,1,1,1,1,true,PASS,3690
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0016-lru-cache-operator,LRU cache operator,2,1,1,1,true,PASS,3428
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,code-reading,task-0279-default-mutable-argument-trap,Default mutable argument trap,3,1,1,1,true,PASS,3551
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0117-merge-k-sorted-lists,Merge k sorted lists,3,1,1,1,true,PASS,9257
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,knowledge,task-0245-origin-of-the-term-artificial-intelligen,Origin of the Term Artificial Intelligence,3,1,1,1,true,PASS,3762
+2026-09-03T13-39-35,2026-09-03T13:39:35.561Z,glm-5.3-flash,https://opencode.ai/zen/go/v1,agentic,task-0037-downtime-free-database-schema-migration,Downtime-free database schema migration,3,1,1,1,true,PASS,48459
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0220-freeform-bat-and-ball,Freeform bat and ball,2,1,1,1,true,PASS,3346
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0212-probability-conditional,Probability conditional,2,1,1,1,true,PASS,4141
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,code-reading,task-0306-functional-composition-evaluation-order,Functional composition evaluation order,3,1,1,1,true,PASS,4944
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0090-turnstile-event-simulator,Turnstile event simulator,2,1,1,1,true,PASS,7216
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0239-merge-intervals,Merge intervals,2,1,1,1,true,PASS,10999
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0053-jump-game,Jump game,2,1,1,1,true,PASS,11825
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0067-first-missing-positive,First missing positive,3,1,1,1,true,PASS,12569
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0251-course-schedule-cycle-check,Course schedule cycle check,2,1,1,1,true,PASS,9493
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0277-k-closest-points-to-origin,K closest points to origin,2,1,1,1,true,PASS,18738
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0024-increasing-triplet-subsequence,Increasing triplet subsequence,2,1,1,1,true,PASS,8681
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,math,task-0131-modular-power-2-10-mod-7,Modular power 2^10 mod 7,1,1,1,1,true,PASS,3613
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0003-valid-parentheses,Valid parentheses,1,1,1,1,true,PASS,26775
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0022-greatest-common-divisor-of-strings,Greatest common divisor of strings,2,1,1,1,true,PASS,7766
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0230-sorted-array-intersection,Sorted array intersection,1,1,1,1,true,PASS,4544
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,math,task-0139-integral-of-x-2-x-on-0-2,"""Integral of x^2 + x on [0,2]""",3,1,1,1,true,PASS,3773
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0046-sort-colors,Sort colors,2,1,1,1,true,PASS,6700
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0069-edit-distance,Edit distance,3,1,1,1,true,PASS,7253
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0092-bracket-validator,Bracket validator,2,1,1,1,true,PASS,5369
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,code-reading,task-0299-js-left-shift-overflow,JS left shift overflow,2,1,1,1,true,PASS,3980
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0191-trapping-rain-water,Trapping rain water,3,1,1,1,true,PASS,8660
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0016-single-number,Single number,2,1,1,1,true,PASS,5116
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0197-median-of-two-sorted-arrays,Median of two sorted arrays,3,1,1,1,true,PASS,12887
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0011-product-of-array-except-self,Product of array except self,2,1,1,1,true,PASS,5268
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0160-prime-check,Prime check,1,1,1,1,true,PASS,8866
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0272-min-arrows-to-burst-balloons,Min arrows to burst balloons,3,1,1,1,true,PASS,8836
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0031-squares-of-a-sorted-array,Squares of a sorted array,1,1,1,1,true,PASS,6301
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0181-first-unique-character,First unique character,2,1,1,1,true,PASS,3988
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0097-build-order-planner,Build order planner,2,1,1,1,true,PASS,56881
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0106-cheapest-flight-within-k-stops,Cheapest flight within k stops,3,1,1,1,true,PASS,58515
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0086-keyword-ranking-agent,Keyword ranking agent,1,1,1,1,true,PASS,32946
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,math,task-0137-limit-of-sin-x-x,Limit of sin x / x,3,1,1,1,true,PASS,4145
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0102-chemical-formula-counter,Chemical formula counter,3,1,1,1,true,PASS,12594
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0236-maximum-row-sum,Maximum row sum,1,1,1,1,true,PASS,3629
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0174-plus-one-carry,Plus one (carry),2,1,1,1,true,PASS,4813
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0190-longest-palindromic-substring,Longest palindromic substring,3,1,1,1,true,PASS,12933
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0229-count-primes-up-to-n,Count primes up to n,1,1,1,1,true,PASS,9465
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0088-grid-pathfinding-agent,Grid pathfinding agent,2,1,1,1,true,PASS,16289
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0200-number-of-islands,Number of islands,3,1,1,1,true,PASS,26673
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0060-kth-largest-element-in-array,Kth largest element in array,2,1,1,1,true,PASS,79268
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0167-first-word-repeated,First word repeated,2,1,1,1,true,PASS,7569
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0058-repeated-dna-sequences,Repeated DNA sequences,2,1,1,1,true,PASS,6528
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0188-happy-number,Happy number,2,1,1,1,true,PASS,6051
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0035-ransom-note,Ransom note,1,1,1,1,true,PASS,9364
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0045-rotate-array-right-by-k,Rotate array right by k,2,1,1,1,true,PASS,18975
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,knowledge,task-0121-tcp-vs-udp-delivery-guarantee,TCP vs UDP Delivery Guarantee,1,1,0,0,false,FAIL,6008
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0173-is-subsequence,Is subsequence,2,1,1,1,true,PASS,30703
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0271-unique-paths-on-grid,Unique paths on grid,2,1,1,1,true,PASS,25532
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0263-sliding-window-maximum,Sliding window maximum,3,1,0,0,false,ERROR,120003
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,knowledge,task-0126-direct-mapped-cache-set-selection-bits,Direct-Mapped Cache Set Selection Bits,2,1,1,1,true,PASS,46656
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0119-recover-from-a-bad-commit-in-shared-hist,Recover from a bad commit in shared history,3,1,1,1,true,PASS,76870
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,code-reading,task-0293-boolean-or-of-truthy-values,Boolean OR of truthy values,1,1,1,1,true,PASS,3533
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0166-remove-duplicates-in-sorted-array,Remove duplicates in sorted array,2,1,0.6667,0.6667,false,PARTIAL,6181
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0108-merge-latest-fix-into-feature-branch,Merge latest fix into feature branch,1,1,1,1,true,PASS,13448
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0156-last-element,Last element,1,1,1,1,true,PASS,2550
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0252-minimum-coins-to-amount,Minimum coins to amount,2,1,1,1,true,PASS,8141
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0202-truth-teller-or-liar,Truth-teller or liar,1,1,0,0,false,FAIL,6482
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0050-simplify-path,Simplify path,2,1,1,1,true,PASS,8804
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0158-fibonacci-n-th-term,Fibonacci n-th term,1,1,1,1,true,PASS,5971
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0087-run-length-decompressor,Run-length decompressor,1,1,1,1,true,PASS,12597
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0052-plus-one,Plus one,2,1,1,1,true,PASS,10221
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0204-simple-sequence-extrapolation,Simple sequence extrapolation,1,1,1,1,true,PASS,2398
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0286-min-candies-distribution,Min candies distribution,3,1,1,1,true,PASS,10427
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0172-longest-common-prefix,Longest common prefix,2,1,1,1,true,PASS,11837
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0210-venn-three-category,Venn three-category,2,1,1,1,true,PASS,4026
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0243-jump-game,Jump game,2,1,1,1,true,PASS,8886
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0207-basic-venn-overlap,Basic Venn overlap,1,1,1,1,true,PASS,3580
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0110-diagnose-failing-ci-after-a-merge,Diagnose failing CI after a merge,2,1,0,0,false,FAIL,91773
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0178-roman-to-integer,Roman to integer,2,1,1,1,true,PASS,3587
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0267-min-initial-health-in-grid,Min initial health in grid,3,1,1,1,true,PASS,24677
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,knowledge,task-0122-utf-8-maximum-bytes-per-code-point,UTF-8 Maximum Bytes Per Code Point,1,1,1,1,true,PASS,39958
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0180-move-zeroes,Move zeroes,2,1,1,1,true,PASS,7847
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0074-max-points-on-a-line,Max points on a line,3,1,1,1,true,PASS,60800
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0169-rotate-array-right-by-k,Rotate array right by k,2,1,1,1,true,PASS,13860
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0264-split-array-largest-sum,Split array largest sum,3,1,1,1,true,PASS,47578
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0215-paradox-self-reference,Paradox self-reference,3,1,0,0,false,FAIL,5202
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,math,task-0143-integer-partitions,Integer partitions,3,1,1,1,true,PASS,4557
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0042-halves-are-alike,Halves are alike,1,1,1,1,true,PASS,4176
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,code-reading,task-0296-mutability-aliasing-in-python,Mutability aliasing in Python,2,1,0,0,false,FAIL,3116
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0098-nested-list-parser,Nested list parser,3,1,0,0,false,FAIL,85390
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0068-lru-cache-operation-sequence,LRU cache (operation sequence),3,1,1,1,true,PASS,11277
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,code-reading,task-0297-this-binding-in-method-call,this binding in method call,2,1,0,0,false,FAIL,5570
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0238-squares-of-sorted-array,Squares of sorted array,1,1,1,1,true,PASS,4970
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0015-running-sum,Running sum,1,1,1,1,true,PASS,4134
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0033-count-odd-numbers-in-an-interval,Count odd numbers in an interval,1,1,1,1,true,PASS,6004
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0021-merge-strings-alternately,Merge strings alternately,1,1,1,1,true,PASS,11189
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0208-causality-vs-correlation,Causality vs correlation,2,1,0,0,false,FAIL,5455
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0048-decode-string,Decode string,2,1,0.2222,0.2222,false,PARTIAL,13606
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,math,task-0135-determinant-of-2x2,Determinant of 2x2,2,1,1,1,true,PASS,6606
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0103-paragraph-formatter,Paragraph formatter,3,1,0,0,false,FAIL,83331
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0182-reverse-integer,Reverse integer,2,1,1,1,true,PASS,6473
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0037-number-of-good-pairs,Number of good pairs,1,1,1,1,true,PASS,5831
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,math,task-0141-3x3-determinant,3x3 determinant,2,1,1,1,true,PASS,3123
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,code-reading,task-0301-nested-closure-captures-final-value,Nested closure captures final value,3,1,0,0,false,FAIL,5714
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,code-reading,task-0303-recursion-unwinding-order,Recursion unwinding order,3,1,0,0,false,FAIL,8368
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0075-palindrome-pairs,Palindrome pairs,3,1,0,0,false,ERROR,82086
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0001-two-sum-return-indices,Two Sum — return indices,1,1,1,1,true,PASS,4423
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0224-freeform-weighing-minimum,Freeform weighing minimum,3,1,1,1,true,PASS,4141
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0214-weighing-ambiguous-weight,Weighing ambiguous weight,3,1,0,0,false,FAIL,18030
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,math,task-0132-integral-of-6x-2-on-0-1,"""Integral of 6x^2 on [0,1]""",1,1,1,1,true,PASS,6033
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0113-onboard-a-teammate-to-local-development,Onboard a teammate to local development,2,1,1,1,true,PASS,23876
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0079-valid-sudoku,Valid Sudoku,3,1,1,1,true,PASS,84587
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0009-roman-to-integer,Roman to Integer,2,1,1,1,true,PASS,11780
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0006-palindrome-number,Palindrome number,1,1,1,1,true,PASS,13816
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0049-validate-ip-address,Validate IP address,2,1,1,1,true,PASS,41063
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0085-secretary-task-ordering,Secretary task ordering,1,1,1,1,true,PASS,4335
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0116-downtime-free-database-schema-migration,Downtime-free database schema migration,3,1,1,1,true,PASS,59151
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0115-trace-a-slow-request-across-services,Trace a slow request across services,3,1,1,1,true,PASS,59186
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0278-rotate-array-right-by-k,Rotate array right by k,2,1,0.375,0.375,false,PARTIAL,5887
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,knowledge,task-0128-origin-of-the-term-artificial-intelligen,Origin of the Term Artificial Intelligence,3,1,1,1,true,PASS,7469
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0004-climbing-stairs,Climbing stairs,1,1,1,1,true,PASS,10574
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0163-two-sum-fix-reuse,Two sum (fix reuse),2,1,1,1,true,PASS,14797
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0059-largest-number-formed-by-joining,Largest number formed by joining,2,1,1,1,true,PASS,7585
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,code-reading,task-0300-async-function-returns-promise,Async function returns Promise,2,1,1,1,true,PASS,4045
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0257-median-of-two-sorted-arrays,Median of two sorted arrays,3,1,1,1,true,PASS,24546
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0114-canary-rollout-of-a-service,Canary rollout of a service,2,1,0,0,false,ERROR,120003
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0002-reverse-word-order,Reverse word order,1,1,1,1,true,PASS,5006
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0171-anagram-check,Anagram check,2,1,1,1,true,PASS,4068
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,code-reading,task-0291-modulo-sign,Modulo sign,1,1,1,1,true,PASS,3013
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,code-reading,task-0305-recursion-depth-output,Recursion depth output,3,1,1,1,true,PASS,6338
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0280-next-permutation,Next permutation,3,1,0.25,0.25,false,PARTIAL,13060
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0063-max-consecutive-ones-with-one-flip,Max consecutive ones with one flip,2,1,1,1,true,PASS,13881
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0055-word-pattern,Word pattern,2,1,1,1,true,PASS,5989
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0077-merge-k-sorted-lists,Merge k sorted lists,3,1,1,1,true,PASS,12956
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0020-can-place-flowers,Can place flowers,2,1,1,1,true,PASS,29034
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0282-multiply-large-numbers,Multiply large numbers,2,1,0,0,false,FAIL,86134
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0145-sum-of-an-array,Sum of an array,1,1,1,1,true,PASS,8122
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0054-house-robber,House robber,2,1,1,1,true,PASS,5825
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0185-find-the-single-number-xor,Find the single number (XOR),2,1,1,1,true,PASS,3248
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0179-climbing-stairs,Climbing stairs,2,1,1,1,true,PASS,69533
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0025-string-compression,String compression,2,1,0.2,0.2,false,PARTIAL,18440
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,code-reading,task-0304-default-mutable-argument-trap,Default mutable argument trap,3,1,1,1,true,PASS,16820
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0043-left-and-right-sum-differences,Left and right sum differences,1,1,1,1,true,PASS,3501
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0032-find-the-difference,Find the difference,1,1,1,1,true,PASS,5516
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,math,task-0138-arrangements-of-mississippi,Arrangements of MISSISSIPPI,3,1,0,0,false,FAIL,4566
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0012-move-zeroes,Move zeroes,1,1,1,1,true,PASS,15578
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0112-debug-a-memory-leak-in-a-daemon,Debug a memory leak in a daemon,2,1,1,1,true,PASS,70249
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0186-two-pointer-container-water,Two-pointer container water,2,1,1,1,true,PASS,76923
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0039-find-nearest-valid-point,Find nearest valid point,1,1,1,1,true,PASS,6302
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,code-reading,task-0302-try-except-else-ordering,try/except else ordering,3,1,0,0,false,FAIL,4732
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,knowledge,task-0120-binary-search-worst-case-time-complexity,Binary Search Worst-Case Time Complexity,1,1,1,1,true,PASS,3350
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0080-robot-footprints,Robot footprints,1,1,1,1,true,PASS,5238
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0081-vending-machine-change,Vending machine change,1,1,1,1,true,PASS,24337
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0193-coin-change-min-coins,Coin change (min coins),3,1,1,1,true,PASS,5007
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,math,task-0134-gcd-of-84-and-30,gcd of 84 and 30,2,1,1,1,true,PASS,1926
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,knowledge,task-0125-tcp-slow-start-window-growth,TCP Slow Start Window Growth,2,1,0,0,false,FAIL,3205
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0228-second-largest-element,Second largest element,1,1,1,1,true,PASS,33372
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0151-count-vowels,Count vowels,1,1,1,1,true,PASS,5583
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0047-next-permutation,Next permutation,2,1,1,1,true,PASS,9531
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0165-binary-search-direction,Binary search direction,2,1,1,1,true,PASS,4577
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,code-reading,task-0294-loop-closure-over-let,Loop closure over let,2,1,0,0,false,FAIL,5207
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0170-run-length-compress,Run-length compress,2,1,1,1,true,PASS,7753
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0057-zigzag-conversion,Zigzag conversion,2,1,1,1,true,PASS,12160
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0149-factorial,Factorial,1,1,1,1,true,PASS,2102
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0096-disk-head-scheduler,Disk head scheduler,2,1,1,1,true,PASS,11500
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0246-max-water-container,Max water container,2,1,1,1,true,PASS,4470
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0231-sum-of-digits,Sum of digits,1,1,1,1,true,PASS,16496
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0094-election-scrutineer,Election scrutineer,2,1,1,1,true,PASS,5402
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0269-longest-valid-parentheses,Longest valid parentheses,3,1,1,1,true,PASS,8969
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0189-product-of-array-except-self,Product of array except self,3,1,1,1,true,PASS,16856
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0250-number-of-islands,Number of Islands,2,1,0.2857,0.2857,false,PARTIAL,14507
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0256-longest-increasing-subsequence,Longest increasing subsequence,3,1,1,1,true,PASS,8549
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0203-river-crossing-feasibility,River crossing feasibility,1,1,1,1,true,PASS,6379
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0008-integer-to-roman,Integer to Roman,2,1,1,1,true,PASS,6836
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0198-first-missing-positive,First missing positive,3,1,1,1,true,PASS,9353
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0225-freeform-hard-sequence,Freeform hard sequence,3,1,1,1,true,PASS,1706
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0233-frequency-of-maximum,Frequency of maximum,1,1,1,1,true,PASS,7393
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0265-largest-rectangle-in-histogram,Largest rectangle in histogram,3,1,1,1,true,PASS,26053
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0276-nth-gray-code-value,Nth gray code value,1,1,1,1,true,PASS,4282
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0195-largest-rectangle-in-histogram,Largest rectangle in histogram,3,1,1,1,true,PASS,15215
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0270-decode-ways,Decode ways,3,1,1,1,true,PASS,31796
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,code-reading,task-0290-array-pop-return-value,Array pop return value,1,1,1,1,true,PASS,3837
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,math,task-0136-exactly-two-heads-in-three-flips,Exactly two heads in three flips,2,1,1,1,true,PASS,4047
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0026-group-anagrams,Group anagrams,2,1,1,1,true,PASS,7952
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0072-basic-calculator-ii,Basic calculator II,3,1,1,1,true,PASS,56976
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0218-freeform-handshakes,Freeform handshakes,1,1,1,1,true,PASS,1654
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0249-daily-temperatures,Daily temperatures,2,1,1,1,true,PASS,13526
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0247-count-triplets-equal-sum,Count triplets equal sum,2,1,0,0,false,FAIL,88049
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0041-maximum-69-number,Maximum 69 number,1,1,1,1,true,PASS,3820
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0070-burst-balloons,Burst balloons,3,1,1,1,true,PASS,100307
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0084-stack-operator,Stack operator,1,1,1,1,true,PASS,10273
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0266-edit-distance,Edit distance,3,1,1,1,true,PASS,10036
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0027-string-to-integer-atoi,String to integer (atoi),2,1,1,1,true,PASS,29285
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0159-absolute-value,Absolute value,1,1,1,1,true,PASS,5882
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0091-token-bucket-rate-limiter,Token bucket rate limiter,2,1,1,1,true,PASS,9598
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0148-reverse-a-string,Reverse a string,1,1,1,1,true,PASS,2197
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,knowledge,task-0129-cap-theorem-precise-statement,CAP Theorem Precise Statement,3,1,1,1,true,PASS,15252
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0164-valid-parentheses-matching,Valid parentheses (matching),2,1,1,1,true,PASS,6477
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0146-count-even-numbers,Count even numbers,1,1,1,1,true,PASS,2623
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0275-longest-mountain,Longest mountain,2,1,1,1,true,PASS,40249
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0150-average-of-list,Average of list,1,1,1,1,true,PASS,2413
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0099-tic-tac-toe-game-solver,Tic-tac-toe game solver,3,1,1,1,true,PASS,53983
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0253-wiggle-subsequence-length,Wiggle subsequence length,2,1,1,1,true,PASS,11799
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0227-target-sum-pair-count,Target sum pair count,1,1,1,1,true,PASS,5990
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0219-freeform-simple-sequence,Freeform simple sequence,1,1,1,1,true,PASS,1824
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0030-duplicate-zeros,Duplicate zeros,1,1,1,1,true,PASS,79259
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0254-min-subarray-length-sum-target,Min subarray length sum >= target,2,1,1,1,true,PASS,40527
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0023-reverse-vowels-of-a-string,Reverse vowels of a string,1,1,1,1,true,PASS,7770
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0100-campus-network-cabling,Campus network cabling,3,1,1,1,true,PASS,9594
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0221-freeform-two-child-conditional,Freeform two-child conditional,2,1,1,1,true,PASS,4059
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0073-largest-rectangle-in-histogram,Largest rectangle in histogram,3,1,1,1,true,PASS,11524
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,code-reading,task-0292-bitwise-and-of-powers,Bitwise AND of powers,1,1,1,1,true,PASS,2489
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0192-edit-distance,Edit distance,3,1,1,1,true,PASS,5101
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0187-guess-number-off-by-one,Guess number (off by one),2,1,1,1,true,PASS,3387
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0176-missing-number,Missing number,2,1,1,1,true,PASS,55209
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0105-word-ladder-agent,Word ladder agent,3,1,0,0,false,FAIL,90746
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0104-minimum-window-finder,Minimum window finder,3,1,1,1,true,PASS,20841
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0259-word-break,Word break,3,1,1,1,true,PASS,10308
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0237-hamming-weight,Hamming weight,1,1,1,1,true,PASS,5675
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0153-sum-of-squares,Sum of squares,1,1,1,1,true,PASS,1830
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0076-remove-duplicate-letters-smallest-lexico,Remove duplicate letters (smallest lexicographic),3,1,1,1,true,PASS,15287
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,math,task-0133-integral-of-sin-x-on-0-pi,"""Integral of sin x on [0, pi]""",2,1,1,1,true,PASS,3214
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0044-longest-palindromic-substring,Longest palindromic substring,2,1,1,1,true,PASS,17912
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0109-deploy-service-to-staging,Deploy service to staging,1,1,1,1,true,PASS,26205
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0199-largest-number-from-array,Largest number from array,3,1,1,1,true,PASS,28573
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,math,task-0130-sum-of-1-to-100,Sum of 1 to 100,1,1,1,1,true,PASS,2670
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,math,task-0140-modular-exponentiation,Modular exponentiation,1,1,1,1,true,PASS,11849
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0232-contains-duplicate,Contains duplicate,1,1,1,1,true,PASS,9532
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0206-handshake-count-single,Handshake count single,1,1,1,1,true,PASS,2858
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0184-sort-even-and-odd-indices,Sort even and odd indices,2,1,1,1,true,PASS,4410
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0168-majority-element,Majority element,2,1,1,1,true,PASS,8336
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0274-stock-with-cooldown-max-profit,Stock with cooldown max profit,3,1,1,1,true,PASS,38432
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0154-first-positive-index,First positive index,1,1,1,1,true,PASS,4849
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0034-sum-of-unique-elements,Sum of unique elements,1,1,1,1,true,PASS,3375
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0209-ambiguous-trick-wording,Ambiguous trick wording,2,1,1,1,true,PASS,9497
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0005-longest-common-prefix,Longest common prefix,1,1,1,1,true,PASS,15080
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0283-count-reverse-pairs,Count reverse pairs,3,1,1,1,true,PASS,43968
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0014-find-pivot-index,Find pivot index,1,1,1,1,true,PASS,7942
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0268-count-palindromic-substrings,Count palindromic substrings,2,1,1,1,true,PASS,23044
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0089-deadline-resource-scheduler,Deadline resource scheduler,2,1,0,0,false,FAIL,97563
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0261-kth-largest-element,Kth largest element,2,1,1,1,true,PASS,22263
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,knowledge,task-0127-bloom-filter-false-positive-property,Bloom Filter False Positive Property,3,1,0,0,false,FAIL,3200
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0040-smallest-even-multiple,Smallest even multiple,1,1,1,1,true,PASS,2546
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0017-counting-bits,Counting bits,2,1,1,1,true,PASS,5730
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0273-max-profit-job-scheduling,Max profit job scheduling,3,1,1,1,true,PASS,29443
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0201-basic-calculator-ii,Basic calculator II,3,1,0,0,false,FAIL,86634
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0066-median-of-two-sorted-arrays,Median of two sorted arrays,3,1,1,1,true,PASS,33701
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0258-burst-balloons-max-coins,Burst balloons max coins,3,1,1,1,true,PASS,12364
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0161-merge-intervals,Merge intervals,2,1,1,1,true,PASS,6827
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0242-task-scheduler,Task scheduler,2,1,1,1,true,PASS,8343
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0028-longest-substring-without-repeating-char,Longest substring without repeating characters,2,1,1,1,true,PASS,14244
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0244-house-robber,House robber,2,1,1,1,true,PASS,5072
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0029-top-k-frequent-elements,Top K frequent elements,2,1,0,0,false,FAIL,12144
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0101-min-refuel-stops,Min refuel stops,3,1,1,1,true,PASS,23808
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0082-directory-resolver,Directory resolver,1,1,1,1,true,PASS,4137
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0018-missing-number,Missing number,1,1,1,1,true,PASS,10997
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0222-freeform-river-crossing-count,Freeform river crossing count,2,1,1,1,true,PASS,2269
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0095-lru-cache-operator,LRU cache operator,2,1,1,1,true,PASS,6269
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0262-minimum-path-in-grid,Minimum path in grid,2,1,1,1,true,PASS,7051
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0078-number-of-islands,Number of islands,3,1,0.3333,0.3333,false,PARTIAL,31139
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0211-scheduling-conflict-deduce,Scheduling conflict deduce,2,1,1,1,true,PASS,6573
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0223-freeform-venn-counting,Freeform Venn counting,2,1,1,1,true,PASS,1194
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0245-max-profit-one-transaction,Max profit one transaction,2,1,1,1,true,PASS,7598
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0240-can-attend-all-meetings,Can attend all meetings,2,1,1,1,true,PASS,30768
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0093-token-scanner,Token scanner,2,1,0,0,false,ERROR,120003
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0226-freeform-probability-monty-variant,Freeform probability Monty variant,3,1,1,1,true,PASS,4480
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,code-reading,task-0289-integer-division-truncation,Integer division truncation,1,1,0,0,false,FAIL,5018
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0010-container-with-most-water,Container with most water,2,1,1,1,true,PASS,5126
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0255-maximum-product-subarray,Maximum product subarray,3,1,1,1,true,PASS,11818
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0065-sliding-window-maximum,Sliding window maximum,3,1,1,1,true,PASS,26279
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0248-subarray-sum-equals-k-count,Subarray sum equals k count,2,1,1,1,true,PASS,7135
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0019-kids-with-greatest-candies,Kids with greatest candies,1,1,1,1,true,PASS,7606
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0118-design-a-self-healing-autoscaling-strate,Design a self-healing autoscaling strategy,3,1,1,1,true,PASS,41244
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0157-contains-substring,Contains substring,1,1,1,1,true,PASS,2868
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0194-word-break,Word break,3,1,0,0,false,FAIL,84417
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0216-complex-truth-teller-logic,Complex truth-teller logic,3,1,1,1,true,PASS,29320
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,math,task-0142-dice-sum-ways,Dice sum ways,2,1,1,1,true,PASS,18442
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0235-count-negatives-in-grid,Count negatives in grid,1,1,1,1,true,PASS,11199
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,knowledge,task-0123-np-completeness-precise-definition,NP-Completeness Precise Definition,2,1,1,1,true,PASS,4801
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,knowledge,task-0124-coffman-conditions-which-is-not-one,Coffman Conditions — Which Is Not One?,2,1,1,1,true,PASS,6756
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0051-add-binary-strings,Add binary strings,2,1,1,1,true,PASS,11044
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0241-longest-consecutive-sequence,Longest consecutive sequence,2,1,1,1,true,PASS,7267
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0213-two-liar-knight-compound,Two liar-knight compound,3,1,0,0,false,FAIL,5595
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0155-palindrome-string-check,Palindrome string check,1,1,1,1,true,PASS,4593
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,code-reading,task-0287-short-circuit-or-assignment,Short-circuit OR assignment,1,1,0,0,false,FAIL,8350
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0071-candy-distribution,Candy distribution,3,1,1,1,true,PASS,14140
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0285-largest-number-from-array,Largest number from array,2,1,1,1,true,PASS,7664
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0175-reverse-words-in-string,Reverse words in string,2,1,1,1,true,PASS,3852
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,code-reading,task-0298-floating-point-accumulation,Floating-point accumulation,2,1,0,0,false,FAIL,5104
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0279-count-subsets-summing-to-target,Count subsets summing to target,2,1,1,1,true,PASS,60062
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0217-monty-hall-with-variant,Monty Hall with variant,3,1,1,1,true,PASS,9878
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0177-maximum-subarray-kadane,Maximum subarray (Kadane),2,1,1,1,true,PASS,4855
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0196-sliding-window-maximum,Sliding window maximum,3,1,1,1,true,PASS,29026
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0147-maximum-value,Maximum value,1,1,1,1,true,PASS,2295
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0152-count-negatives,Count negatives,1,1,1,1,true,PASS,2159
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0107-minimum-jumps-agent,Minimum jumps agent,3,1,1,1,true,PASS,10126
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0056-isomorphic-strings,Isomorphic strings,2,1,1,1,true,PASS,5265
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0284-number-of-coin-combinations,Number of coin combinations,3,1,1,1,true,PASS,19698
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,code-reading,task-0288-string-slice-indices,String slice indices,1,1,1,1,true,PASS,2509
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0007-merge-sorted-arrays-in-place,Merge sorted arrays in place,2,1,0.5,0.5,false,PARTIAL,10807
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,code-reading,task-0295-promise-microtask-ordering,Promise microtask ordering,2,1,0,0,false,FAIL,3828
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0013-is-subsequence,Is subsequence,1,1,1,1,true,PASS,8106
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0083-elevator-commute-distance,Elevator commute distance,1,1,1,1,true,PASS,6105
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,reasoning,task-0205-basic-logical-converse,Basic logical converse,1,1,1,1,true,PASS,8269
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0183-first-non-repeating-word-rate,First non-repeating (word rate),2,1,1,1,true,PASS,11648
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-bugfix,task-0162-longest-consecutive-sequence,Longest consecutive sequence,2,1,1,1,true,PASS,13650
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0038-defang-ip-address,Defang IP address,1,1,1,1,true,PASS,2948
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0260-trapping-rain-water,Trapping rain water,2,1,1,1,true,PASS,13358
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0036-shuffle-string,Shuffle string,1,1,0.8,0.8,false,PARTIAL,2806
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0064-trapping-rain-water,Trapping rain water,3,1,1,1,true,PASS,7596
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0234-is-perfect-square,Is perfect square,1,1,0,0,false,FAIL,97205
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0062-push-dominoes,Push dominoes,2,1,0,0,false,FAIL,76391
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0117-automate-an-on-call-runbook-response,Automate an on-call runbook response,3,1,1,1,true,PASS,59291
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-implementation,task-0061-fraction-to-recurring-decimal,Fraction to recurring decimal,2,1,0,0,false,FAIL,69596
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,coding-algorithm,task-0281-count-derangements,Count derangements,3,1,0,0,false,FAIL,80997
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,agentic,task-0111-zero-downtime-service-migration,Zero-downtime service migration,2,1,0.75,0.75,false,PARTIAL,60211
+2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,math,task-0144-count-numbers-avoiding-a-digit,Count numbers avoiding a digit,3,1,1,1,true,PASS,100968
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,code-reading,task-0299-js-left-shift-overflow,JS left shift overflow,2,1,1,1,true,PASS,3253
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,math,task-0249-integral-of-6x-2-on-0-1,"""Integral of 6x^2 on [0,1]""",1,1,1,1,true,PASS,3550
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0213-majority-element,Majority element,2,1,1,1,true,PASS,3968
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0100-simplify-path,Simplify path,2,1,1,1,true,PASS,4145
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0166-sliding-window-maximum,Sliding window maximum,3,1,1,1,true,PASS,7654
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0095-rotate-array-right-by-k,Rotate array right by k,2,1,1,1,true,PASS,13440
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0080-duplicate-zeros,Duplicate zeros,1,1,1,1,true,PASS,12675
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0143-can-attend-all-meetings,Can attend all meetings,2,1,1,1,true,PASS,3194
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0151-subarray-sum-equals-k-count,Subarray sum equals k count,2,1,1,1,true,PASS,5278
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0062-move-zeroes,Move zeroes,1,1,1,1,true,PASS,3610
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0007-keyword-ranking-agent,Keyword ranking agent,1,1,1,1,true,PASS,21555
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0147-house-robber,House robber,2,1,1,1,true,PASS,2269
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0178-longest-mountain,Longest mountain,2,1,1,1,true,PASS,20314
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0020-tic-tac-toe-game-solver,Tic-tac-toe game solver,3,1,1,1,true,PASS,28490
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,code-reading,task-0303-recursion-unwinding-order,Recursion unwinding order,3,1,0,0,false,FAIL,2030
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0201-last-element,Last element,1,1,1,1,true,PASS,2495
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0189-min-candies-distribution,Min candies distribution,3,1,1,1,true,PASS,5530
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0202-contains-substring,Contains substring,1,1,1,1,true,PASS,4271
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0112-push-dominoes,Push dominoes,2,1,1,1,true,PASS,32384
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0200-palindrome-string-check,Palindrome string check,1,1,1,1,true,PASS,2489
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0135-contains-duplicate,Contains duplicate,1,1,1,1,true,PASS,2626
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0210-binary-search-direction,Binary search direction,2,1,1,1,true,PASS,2636
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0243-first-missing-positive,First missing positive,3,1,1,1,true,PASS,31661
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0203-fibonacci-n-th-term,Fibonacci n-th term,1,1,1,1,true,PASS,4948
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0061-product-of-array-except-self,Product of array except self,2,1,1,1,true,PASS,4940
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,math,task-0258-3x3-determinant,3x3 determinant,2,1,1,1,true,PASS,3752
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0163-trapping-rain-water,Trapping rain water,2,1,1,1,true,PASS,8110
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0145-task-scheduler,Task scheduler,2,1,1,1,true,PASS,9993
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0215-run-length-compress,Run-length compress,2,1,1,1,true,PASS,3514
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,math,task-0260-integer-partitions,Integer partitions,3,1,1,1,true,PASS,2851
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0014-token-scanner,Token scanner,2,1,1,1,true,PASS,14427
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0104-house-robber,House robber,2,1,1,1,true,PASS,3954
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0118-lru-cache-operation-sequence,LRU cache (operation sequence),3,1,1,1,true,PASS,6649
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0070-can-place-flowers,Can place flowers,2,1,1,1,true,PASS,14540
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0198-sum-of-squares,Sum of squares,1,1,1,1,true,PASS,2631
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0073-reverse-vowels-of-a-string,Reverse vowels of a string,1,1,1,1,true,PASS,8675
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0038-automate-an-on-call-runbook-response,Automate an on-call runbook response,3,1,1,1,true,PASS,42883
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0278-freeform-handshakes,Freeform handshakes,1,1,1,1,true,PASS,1876
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0069-kids-with-greatest-candies,Kids with greatest candies,1,1,1,1,true,PASS,5549
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0071-merge-strings-alternately,Merge strings alternately,1,1,1,1,true,PASS,3226
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0106-isomorphic-strings,Isomorphic strings,2,1,1,1,true,PASS,3724
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0272-probability-conditional,Probability conditional,2,1,1,1,true,PASS,4162
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,knowledge,task-0045-coffman-conditions-which-is-not-one,Coffman Conditions — Which Is Not One?,2,1,0,0,false,FAIL,63733
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0159-longest-increasing-subsequence,Longest increasing subsequence,3,1,1,1,true,PASS,3871
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0022-min-refuel-stops,Min refuel stops,3,1,1,1,true,PASS,22044
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0284-freeform-weighing-minimum,Freeform weighing minimum,3,1,1,1,true,PASS,2555
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0055-longest-common-prefix,Longest common prefix,1,1,1,1,true,PASS,9616
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0222-maximum-subarray-kadane,Maximum subarray (Kadane),2,1,1,1,true,PASS,2871
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0033-debug-a-memory-leak-in-a-daemon,Debug a memory leak in a daemon,2,1,1,1,true,PASS,44741
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0148-max-profit-one-transaction,Max profit one transaction,2,1,1,1,true,PASS,4102
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,code-reading,task-0293-boolean-or-of-truthy-values,Boolean OR of truthy values,1,1,1,1,true,PASS,2543
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0225-move-zeroes,Move zeroes,2,1,1,1,true,PASS,5996
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0271-scheduling-conflict-deduce,Scheduling conflict deduce,2,1,1,1,true,PASS,5600
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0109-largest-number-formed-by-joining,Largest number formed by joining,2,1,1,1,true,PASS,9449
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,code-reading,task-0296-mutability-aliasing-in-python,Mutability aliasing in Python,2,1,0,0,false,FAIL,2557
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0173-decode-ways,Decode ways,3,1,1,1,true,PASS,26448
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0083-count-odd-numbers-in-an-interval,Count odd numbers in an interval,1,1,1,1,true,PASS,28990
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0054-climbing-stairs,Climbing stairs,1,1,1,1,true,PASS,3078
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0087-number-of-good-pairs,Number of good pairs,1,1,1,1,true,PASS,3528
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0268-causality-vs-correlation,Causality vs correlation,2,1,0,0,false,FAIL,5006
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0025-minimum-window-finder,Minimum window finder,3,1,1,1,true,PASS,32469
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0133-sorted-array-intersection,Sorted array intersection,1,1,1,1,true,PASS,2610
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0128-number-of-islands,Number of islands,3,1,0.3333,0.3333,false,PARTIAL,7007
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0164-kth-largest-element,Kth largest element,2,1,1,1,true,PASS,20070
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0024-paragraph-formatter,Paragraph formatter,3,1,0,0,false,FAIL,73721
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,knowledge,task-0047-direct-mapped-cache-set-selection-bits,Direct-Mapped Cache Set Selection Bits,2,1,0,0,false,FAIL,3574
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,math,task-0253-exactly-two-heads-in-three-flips,Exactly two heads in three flips,2,1,1,1,true,PASS,5810
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,code-reading,task-0289-integer-division-truncation,Integer division truncation,1,1,0,0,false,FAIL,2237
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0187-number-of-coin-combinations,Number of coin combinations,3,1,1,1,true,PASS,30212
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0171-count-palindromic-substrings,Count palindromic substrings,2,1,1,1,true,PASS,3381
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0229-sort-even-and-odd-indices,Sort even and odd indices,2,1,1,1,true,PASS,5791
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,code-reading,task-0298-floating-point-accumulation,Floating-point accumulation,2,1,0,0,false,FAIL,2995
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0266-handshake-count-single,Handshake count single,1,1,1,1,true,PASS,2194
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0015-election-scrutineer,Election scrutineer,2,1,1,1,true,PASS,3491
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0113-max-consecutive-ones-with-one-flip,Max consecutive ones with one flip,2,1,1,1,true,PASS,5974
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0078-longest-substring-without-repeating-char,Longest substring without repeating characters,2,1,1,1,true,PASS,3142
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0052-reverse-word-order,Reverse word order,1,1,1,1,true,PASS,5858
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0081-squares-of-a-sorted-array,Squares of a sorted array,1,1,1,1,true,PASS,2182
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0177-stock-with-cooldown-max-profit,Stock with cooldown max profit,3,1,1,1,true,PASS,15790
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0092-halves-are-alike,Halves are alike,1,1,1,1,true,PASS,4356
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0146-jump-game,Jump game,2,1,1,1,true,PASS,3132
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0111-fraction-to-recurring-decimal,Fraction to recurring decimal,2,1,1,1,true,PASS,27672
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0280-freeform-bat-and-ball,Freeform bat and ball,2,1,1,1,true,PASS,2422
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0060-container-with-most-water,Container with most water,2,1,1,1,true,PASS,4578
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0282-freeform-river-crossing-count,Freeform river crossing count,2,1,1,1,true,PASS,3257
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0085-ransom-note,Ransom note,1,1,1,1,true,PASS,3797
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0246-basic-calculator-ii,Basic calculator II,3,1,0,0,false,ERROR,120002
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0273-two-liar-knight-compound,Two liar-knight compound,3,1,1,1,true,PASS,3282
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0032-zero-downtime-service-migration,Zero-downtime service migration,2,1,1,1,true,PASS,77312
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0182-count-subsets-summing-to-target,Count subsets summing to target,2,1,0,0,false,ERROR,120007
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0165-minimum-path-in-grid,Minimum path in grid,2,1,1,1,true,PASS,7124
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,code-reading,task-0288-string-slice-indices,String slice indices,1,1,1,1,true,PASS,2225
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0065-running-sum,Running sum,1,1,1,1,true,PASS,3813
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0004-elevator-commute-distance,Elevator commute distance,1,1,1,1,true,PASS,3193
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0114-trapping-rain-water,Trapping rain water,3,1,1,1,true,PASS,4483
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,knowledge,task-0041-binary-search-worst-case-time-complexity,Binary Search Worst-Case Time Complexity,1,1,1,1,true,PASS,1816
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0103-jump-game,Jump game,2,1,1,1,true,PASS,6086
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0158-maximum-product-subarray,Maximum product subarray,3,1,1,1,true,PASS,4900
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0219-plus-one-carry,Plus one (carry),2,1,1,1,true,PASS,3985
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0040-recover-from-a-bad-commit-in-shared-hist,Recover from a bad commit in shared history,3,1,1,1,true,PASS,91419
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0186-count-reverse-pairs,Count reverse pairs,3,1,1,1,true,PASS,36470
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0082-find-the-difference,Find the difference,1,1,1,1,true,PASS,3825
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0270-venn-three-category,Venn three-category,2,1,1,1,true,PASS,2296
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0130-target-sum-pair-count,Target sum pair count,1,1,0,0,false,ERROR,120003
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0117-first-missing-positive,First missing positive,3,1,1,1,true,PASS,26283
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0139-maximum-row-sum,Maximum row sum,1,1,1,1,true,PASS,3635
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0029-merge-latest-fix-into-feature-branch,Merge latest fix into feature branch,1,1,0,0,false,ERROR,120002
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0221-missing-number,Missing number,2,1,1,1,true,PASS,3468
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0037-downtime-free-database-schema-migration,Downtime-free database schema migration,3,1,1,1,true,PASS,80150
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,code-reading,task-0304-default-mutable-argument-trap,Default mutable argument trap,3,1,1,1,true,PASS,5268
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0107-zigzag-conversion,Zigzag conversion,2,1,1,1,true,PASS,4495
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0072-greatest-common-divisor-of-strings,Greatest common divisor of strings,2,1,1,1,true,PASS,12296
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,code-reading,task-0292-bitwise-and-of-powers,Bitwise AND of powers,1,1,1,1,true,PASS,2564
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0195-average-of-list,Average of list,1,1,1,1,true,PASS,2045
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0058-integer-to-roman,Integer to Roman,2,1,1,1,true,PASS,6551
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0233-happy-number,Happy number,2,1,1,1,true,PASS,7775
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0263-river-crossing-feasibility,River crossing feasibility,1,1,1,1,true,PASS,6027
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0238-coin-change-min-coins,Coin change (min coins),3,1,1,1,true,PASS,3563
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0028-minimum-jumps-agent,Minimum jumps agent,3,1,1,1,true,PASS,7496
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0053-valid-parentheses,Valid parentheses,1,1,1,1,true,PASS,14071
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0183-next-permutation,Next permutation,3,1,0.25,0.25,false,PARTIAL,5951
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0281-freeform-two-child-conditional,Freeform two-child conditional,2,1,1,1,true,PASS,2341
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0066-single-number,Single number,2,1,1,1,true,PASS,2546
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0074-increasing-triplet-subsequence,Increasing triplet subsequence,2,1,1,1,true,PASS,5830
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0275-paradox-self-reference,Paradox self-reference,3,1,0,0,false,FAIL,13458
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0235-longest-palindromic-substring,Longest palindromic substring,3,1,1,1,true,PASS,51550
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0018-build-order-planner,Build order planner,2,1,1,1,true,PASS,43574
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0005-stack-operator,Stack operator,1,1,1,1,true,PASS,4474
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0239-word-break,Word break,3,1,0,0,false,ERROR,120003
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0267-basic-venn-overlap,Basic Venn overlap,1,1,1,1,true,PASS,3346
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,math,task-0256-integral-of-x-2-x-on-0-2,"""Integral of x^2 + x on [0,2]""",3,1,1,1,true,PASS,3992
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0223-roman-to-integer,Roman to integer,2,1,1,1,true,PASS,5516
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0102-plus-one,Plus one,2,1,1,1,true,PASS,4459
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0026-word-ladder-agent,Word ladder agent,3,1,0,0,false,ERROR,120002
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0156-wiggle-subsequence-length,Wiggle subsequence length,2,1,1,1,true,PASS,19439
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0134-sum-of-digits,Sum of digits,1,1,1,1,true,PASS,10311
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0237-edit-distance,Edit distance,3,1,1,1,true,PASS,5701
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0150-count-triplets-equal-sum,Count triplets equal sum,2,1,0,0,false,ERROR,120001
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0274-weighing-ambiguous-weight,Weighing ambiguous weight,3,1,0,0,false,FAIL,39343
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0077-string-to-integer-atoi,String to integer (atoi),2,1,1,1,true,PASS,23869
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,code-reading,task-0306-functional-composition-evaluation-order,Functional composition evaluation order,3,1,1,1,true,PASS,4139
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0006-secretary-task-ordering,Secretary task ordering,1,1,1,1,true,PASS,8489
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0108-repeated-dna-sequences,Repeated DNA sequences,2,1,1,1,true,PASS,7319
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0216-anagram-check,Anagram check,2,1,1,1,true,PASS,2178
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0067-counting-bits,Counting bits,2,1,1,1,true,PASS,4771
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0017-disk-head-scheduler,Disk head scheduler,2,1,0,0,false,ERROR,120001
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0016-lru-cache-operator,LRU cache operator,2,1,1,1,true,PASS,23651
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0269-ambiguous-trick-wording,Ambiguous trick wording,2,1,0,0,false,FAIL,2260
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0076-group-anagrams,Group anagrams,2,1,1,1,true,PASS,6582
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0153-number-of-islands,Number of Islands,2,1,0.2857,0.2857,false,PARTIAL,10812
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,knowledge,task-0048-bloom-filter-false-positive-property,Bloom Filter False Positive Property,3,1,1,1,true,PASS,4527
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0012-token-bucket-rate-limiter,Token bucket rate limiter,2,1,1,1,true,PASS,14472
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,knowledge,task-0046-tcp-slow-start-window-growth,TCP Slow Start Window Growth,2,1,0,0,false,FAIL,2699
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0105-word-pattern,Word pattern,2,1,1,1,true,PASS,5852
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0097-next-permutation,Next permutation,2,1,1,1,true,PASS,18121
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0207-longest-consecutive-sequence,Longest consecutive sequence,2,1,1,1,true,PASS,4275
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0131-second-largest-element,Second largest element,1,1,1,1,true,PASS,5323
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0155-minimum-coins-to-amount,Minimum coins to amount,2,1,1,1,true,PASS,2745
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0181-rotate-array-right-by-k,Rotate array right by k,2,1,0.375,0.375,false,PARTIAL,32304
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0277-monty-hall-with-variant,Monty Hall with variant,3,1,1,1,true,PASS,10794
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0094-longest-palindromic-substring,Longest palindromic substring,2,1,0,0,false,ERROR,120005
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0141-squares-of-sorted-array,Squares of sorted array,1,1,1,1,true,PASS,4730
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0242-median-of-two-sorted-arrays,Median of two sorted arrays,3,1,1,1,true,PASS,24716
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0154-course-schedule-cycle-check,Course schedule cycle check,2,1,1,1,true,PASS,13612
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0167-split-array-largest-sum,Split array largest sum,3,1,1,1,true,PASS,34168
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0096-sort-colors,Sort colors,2,1,1,1,true,PASS,3354
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0035-canary-rollout-of-a-service,Canary rollout of a service,2,1,1,1,true,PASS,21055
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0194-factorial,Factorial,1,1,1,1,true,PASS,3688
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0091-maximum-69-number,Maximum 69 number,1,1,1,1,true,PASS,3672
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0220-reverse-words-in-string,Reverse words in string,2,1,1,1,true,PASS,3215
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,knowledge,task-0043-utf-8-maximum-bytes-per-code-point,UTF-8 Maximum Bytes Per Code Point,1,1,1,1,true,PASS,3882
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0279-freeform-simple-sequence,Freeform simple sequence,1,1,1,1,true,PASS,4063
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0228-first-non-repeating-word-rate,First non-repeating (word rate),2,1,1,1,true,PASS,12693
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0234-product-of-array-except-self,Product of array except self,3,1,1,1,true,PASS,5290
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0034-onboard-a-teammate-to-local-development,Onboard a teammate to local development,2,1,1,1,true,PASS,21097
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0086-shuffle-string,Shuffle string,1,1,1,1,true,PASS,3990
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0129-valid-sudoku,Valid Sudoku,3,1,1,1,true,PASS,6407
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0088-defang-ip-address,Defang IP address,1,1,1,1,true,PASS,2312
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0209-valid-parentheses-matching,Valid parentheses (matching),2,1,1,1,true,PASS,10981
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0191-count-even-numbers,Count even numbers,1,1,1,1,true,PASS,2916
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,code-reading,task-0295-promise-microtask-ordering,Promise microtask ordering,2,1,1,1,true,PASS,2053
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,math,task-0259-dice-sum-ways,Dice sum ways,2,1,1,1,true,PASS,43588
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0019-nested-list-parser,Nested list parser,3,1,0,0,false,ERROR,120005
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0120-burst-balloons,Burst balloons,3,1,1,1,true,PASS,12537
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0093-left-and-right-sum-differences,Left and right sum differences,1,1,1,1,true,PASS,4229
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0205-prime-check,Prime check,1,1,1,1,true,PASS,3993
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,code-reading,task-0305-recursion-depth-output,Recursion depth output,3,1,1,1,true,PASS,6676
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0217-longest-common-prefix,Longest common prefix,2,1,1,1,true,PASS,8138
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,math,task-0261-count-numbers-avoiding-a-digit,Count numbers avoiding a digit,3,1,1,1,true,PASS,32662
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0115-sliding-window-maximum,Sliding window maximum,3,1,1,1,true,PASS,11815
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0208-two-sum-fix-reuse,Two sum (fix reuse),2,1,1,1,true,PASS,8019
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0227-reverse-integer,Reverse integer,2,1,1,1,true,PASS,8863
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0098-decode-string,Decode string,2,1,1,1,true,PASS,20811
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,code-reading,task-0302-try-except-else-ordering,try/except else ordering,3,1,0,0,false,FAIL,2531
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0144-longest-consecutive-sequence,Longest consecutive sequence,2,1,1,1,true,PASS,9967
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0211-remove-duplicates-in-sorted-array,Remove duplicates in sorted array,2,1,0.6667,0.6667,false,PARTIAL,5574
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0056-palindrome-number,Palindrome number,1,1,1,1,true,PASS,8022
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0196-count-vowels,Count vowels,1,1,1,1,true,PASS,3714
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0264-simple-sequence-extrapolation,Simple sequence extrapolation,1,1,1,1,true,PASS,2767
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,math,task-0250-integral-of-sin-x-on-0-pi,"""Integral of sin x on [0, pi]""",2,1,1,1,true,PASS,2625
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,math,task-0252-determinant-of-2x2,Determinant of 2x2,2,1,1,1,true,PASS,2444
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0063-is-subsequence,Is subsequence,1,1,1,1,true,PASS,3428
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0168-largest-rectangle-in-histogram,Largest rectangle in histogram,3,1,1,1,true,PASS,10426
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0008-run-length-decompressor,Run-length decompressor,1,1,1,1,true,PASS,6773
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,code-reading,task-0290-array-pop-return-value,Array pop return value,1,1,1,1,true,PASS,2327
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0089-find-nearest-valid-point,Find nearest valid point,1,1,1,1,true,PASS,4236
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0119-edit-distance,Edit distance,3,1,1,1,true,PASS,2731
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0169-edit-distance,Edit distance,3,1,1,1,true,PASS,10152
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0231-two-pointer-container-water,Two-pointer container water,2,1,1,1,true,PASS,4535
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0199-first-positive-index,First positive index,1,1,1,1,true,PASS,2934
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0244-largest-number-from-array,Largest number from array,3,1,1,1,true,PASS,26568
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,math,task-0248-modular-power-2-10-mod-7,Modular power 2^10 mod 7,1,1,1,1,true,PASS,3082
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0204-absolute-value,Absolute value,1,1,1,1,true,PASS,3759
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0126-remove-duplicate-letters-smallest-lexico,Remove duplicate letters (smallest lexicographic),3,1,1,1,true,PASS,11398
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0162-word-break,Word break,3,1,1,1,true,PASS,4720
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0218-is-subsequence,Is subsequence,2,1,1,1,true,PASS,3523
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0188-largest-number-from-array,Largest number from array,2,1,1,1,true,PASS,6793
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0021-campus-network-cabling,Campus network cabling,3,1,1,1,true,PASS,7155
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0152-daily-temperatures,Daily temperatures,2,1,1,1,true,PASS,5583
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0285-freeform-hard-sequence,Freeform hard sequence,3,1,1,1,true,PASS,1660
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0027-cheapest-flight-within-k-stops,Cheapest flight within k stops,3,1,1,1,true,PASS,16701
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0190-sum-of-an-array,Sum of an array,1,1,1,1,true,PASS,4352
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0245-number-of-islands,Number of islands,3,1,1,1,true,PASS,9503
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,code-reading,task-0294-loop-closure-over-let,Loop closure over let,2,1,0,0,false,FAIL,33632
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0123-largest-rectangle-in-histogram,Largest rectangle in histogram,3,1,1,1,true,PASS,6721
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0057-merge-sorted-arrays-in-place,Merge sorted arrays in place,2,1,0.5,0.5,false,PARTIAL,7727
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0064-find-pivot-index,Find pivot index,1,1,1,1,true,PASS,4117
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0051-two-sum-return-indices,Two Sum — return indices,1,1,1,1,true,PASS,2473
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0224-climbing-stairs,Climbing stairs,2,1,1,1,true,PASS,7898
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,code-reading,task-0301-nested-closure-captures-final-value,Nested closure captures final value,3,1,0,0,false,FAIL,5169
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,math,task-0255-arrangements-of-mississippi,Arrangements of MISSISSIPPI,3,1,0,0,false,FAIL,4444
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0030-deploy-service-to-staging,Deploy service to staging,1,1,1,1,true,PASS,12575
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0212-first-word-repeated,First word repeated,2,1,1,1,true,PASS,4952
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0121-candy-distribution,Candy distribution,3,1,1,1,true,PASS,6312
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0142-merge-intervals,Merge intervals,2,1,1,1,true,PASS,7072
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0170-min-initial-health-in-grid,Min initial health in grid,3,1,1,1,true,PASS,32428
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0174-unique-paths-on-grid,Unique paths on grid,2,1,0,0,false,FAIL,69293
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0286-freeform-probability-monty-variant,Freeform probability Monty variant,3,1,1,1,true,PASS,6464
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0241-sliding-window-maximum,Sliding window maximum,3,1,1,1,true,PASS,7327
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0001-robot-footprints,Robot footprints,1,1,1,1,true,PASS,7816
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0116-median-of-two-sorted-arrays,Median of two sorted arrays,3,1,1,1,true,PASS,22195
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0068-missing-number,Missing number,1,1,1,1,true,PASS,3614
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0230-find-the-single-number-xor,Find the single number (XOR),2,1,1,1,true,PASS,3068
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,math,task-0247-sum-of-1-to-100,Sum of 1 to 100,1,1,1,1,true,PASS,1921
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0184-count-derangements,Count derangements,3,1,0,0,false,FAIL,43166
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0084-sum-of-unique-elements,Sum of unique elements,1,1,1,1,true,PASS,5356
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,code-reading,task-0297-this-binding-in-method-call,this binding in method call,2,1,0,0,false,FAIL,12579
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,code-reading,task-0291-modulo-sign,Modulo sign,1,1,1,1,true,PASS,1598
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0031-diagnose-failing-ci-after-a-merge,Diagnose failing CI after a merge,2,1,0,0,false,ERROR,120002
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0192-maximum-value,Maximum value,1,1,1,1,true,PASS,3042
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0011-turnstile-event-simulator,Turnstile event simulator,2,1,1,1,true,PASS,5205
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0206-merge-intervals,Merge intervals,2,1,1,1,true,PASS,8507
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0036-trace-a-slow-request-across-services,Trace a slow request across services,3,1,1,1,true,PASS,42846
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0023-chemical-formula-counter,Chemical formula counter,3,1,1,1,true,PASS,12643
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0214-rotate-array-right-by-k,Rotate array right by k,2,1,1,1,true,PASS,13020
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0140-hamming-weight,Hamming weight,1,1,1,1,true,PASS,14891
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0175-min-arrows-to-burst-balloons,Min arrows to burst balloons,3,1,1,1,true,PASS,8800
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,math,task-0254-limit-of-sin-x-x,Limit of sin x / x,3,1,1,1,true,PASS,3545
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,knowledge,task-0042-tcp-vs-udp-delivery-guarantee,TCP vs UDP Delivery Guarantee,1,1,0,0,false,FAIL,4341
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0236-trapping-rain-water,Trapping rain water,3,1,1,1,true,PASS,7664
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0240-largest-rectangle-in-histogram,Largest rectangle in histogram,3,1,1,1,true,PASS,5724
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0232-guess-number-off-by-one,Guess number (off by one),2,1,1,1,true,PASS,3750
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0124-max-points-on-a-line,Max points on a line,3,1,1,1,true,PASS,53058
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0157-min-subarray-length-sum-target,Min subarray length sum >= target,2,1,1,1,true,PASS,5903
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0176-max-profit-job-scheduling,Max profit job scheduling,3,1,1,1,true,PASS,21885
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0172-longest-valid-parentheses,Longest valid parentheses,3,1,1,1,true,PASS,7321
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0099-validate-ip-address,Validate IP address,2,1,1,1,true,PASS,20337
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,code-reading,task-0300-async-function-returns-promise,Async function returns Promise,2,1,1,1,true,PASS,3009
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0079-top-k-frequent-elements,Top K frequent elements,2,1,0,0,false,FAIL,5178
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,math,task-0257-modular-exponentiation,Modular exponentiation,1,1,1,1,true,PASS,4022
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,knowledge,task-0044-np-completeness-precise-definition,NP-Completeness Precise Definition,2,1,1,1,true,PASS,3304
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0110-kth-largest-element-in-array,Kth largest element in array,2,1,1,1,true,PASS,4979
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0185-multiply-large-numbers,Multiply large numbers,2,1,1,1,true,PASS,51620
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0013-bracket-validator,Bracket validator,2,1,1,1,true,PASS,4856
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0276-complex-truth-teller-logic,Complex truth-teller logic,3,1,0,0,false,FAIL,41492
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0197-count-negatives,Count negatives,1,1,1,1,true,PASS,6269
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0137-is-perfect-square,Is perfect square,1,1,0,0,false,ERROR,120004
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,knowledge,task-0049-origin-of-the-term-artificial-intelligen,Origin of the Term Artificial Intelligence,3,1,0.6667,0.6667,false,PARTIAL,15879
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0127-merge-k-sorted-lists,Merge k sorted lists,3,1,1,1,true,PASS,9411
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0003-directory-resolver,Directory resolver,1,1,1,1,true,PASS,3462
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0122-basic-calculator-ii,Basic calculator II,3,1,0,0,false,ERROR,120003
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0136-frequency-of-maximum,Frequency of maximum,1,1,1,1,true,PASS,6314
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0149-max-water-container,Max water container,2,1,1,1,true,PASS,3771
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0132-count-primes-up-to-n,Count primes up to n,1,1,1,1,true,PASS,8757
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0101-add-binary-strings,Add binary strings,2,1,1,1,true,PASS,5821
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0226-first-unique-character,First unique character,2,1,1,1,true,PASS,3184
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-bugfix,task-0193-reverse-a-string,Reverse a string,1,1,1,1,true,PASS,2798
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0075-string-compression,String compression,2,1,0.2,0.2,false,PARTIAL,7513
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0090-smallest-even-multiple,Smallest even multiple,1,1,1,1,true,PASS,4960
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0039-design-a-self-healing-autoscaling-strate,Design a self-healing autoscaling strategy,3,1,1,1,true,PASS,28562
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0265-basic-logical-converse,Basic logical converse,1,1,1,1,true,PASS,5334
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,math,task-0251-gcd-of-84-and-30,gcd of 84 and 30,2,1,1,1,true,PASS,2291
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0125-palindrome-pairs,Palindrome pairs,3,1,0,0,false,ERROR,120003
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,knowledge,task-0050-cap-theorem-precise-statement,CAP Theorem Precise Statement,3,1,1,1,true,PASS,16107
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,code-reading,task-0287-short-circuit-or-assignment,Short-circuit OR assignment,1,1,0,0,false,FAIL,8826
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0262-truth-teller-or-liar,Truth-teller or liar,1,1,0,0,false,FAIL,6873
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-implementation,task-0059-roman-to-integer,Roman to Integer,2,1,1,1,true,PASS,8399
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0180-k-closest-points-to-origin,K closest points to origin,2,1,1,1,true,PASS,4961
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,reasoning,task-0283-freeform-venn-counting,Freeform Venn counting,2,1,1,1,true,PASS,2019
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0002-vending-machine-change,Vending machine change,1,1,0,0,false,FAIL,39295
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0009-grid-pathfinding-agent,Grid pathfinding agent,2,1,1,1,true,PASS,21709
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0179-nth-gray-code-value,Nth gray code value,1,1,0,0,false,ERROR,120002
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,agentic,task-0010-deadline-resource-scheduler,Deadline resource scheduler,2,1,1,1,true,PASS,69119
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0138-count-negatives-in-grid,Count negatives in grid,1,1,1,1,true,PASS,58122
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0161-burst-balloons-max-coins,Burst balloons max coins,3,1,0,0,false,ERROR,120003
+2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,coding-algorithm,task-0160-median-of-two-sorted-arrays,Median of two sorted arrays,3,1,1,1,true,PASS,117228
