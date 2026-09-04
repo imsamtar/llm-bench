@@ -178,22 +178,24 @@ and will drift; regenerate the tables by running the benchmark yourself.
 | rank | model | score | % | time |
 |---|---|---|---|---|
 | 1 | glm-5.3-flash | 273.25/306 | 89.3% | 3.9 min |
-| 2 | Qwen3.6-35B-A3B-oQ4e (local) | 265.92/306 | 86.9% | 117.5 min |
-| 3 | glm-5.3 | 263.38/306 | 86.1% | 12.7 min |
-| 4 | qwen3.8-flash | 260.28/306 | 85.1% | 12.3 min |
-| 5 | deepseek-v4-flash-vision-exp | 255.16/306 | 83.4% | 6.2 min |
-| 6 | Qwen3.8-27B-oQ4e (local) | 218.23/306 | 71.3% | 304.8 min |
+| 2 | Ornith-1.5-35B-A3B (local) | 270.25/306 | 88.3% | 28.7 min |
+| 3 | Qwen3.6-35B-A3B-oQ4e (local) | 265.92/306 | 86.9% | 117.5 min |
+| 4 | glm-5.3 | 263.38/306 | 86.1% | 12.7 min |
+| 5 | qwen3.8-flash | 260.28/306 | 85.1% | 12.3 min |
+| 6 | deepseek-v4-flash-vision-exp | 255.16/306 | 83.4% | 6.2 min |
+| 7 | Qwen3.8-27B-oQ4e (local) | 218.23/306 | 71.3% | 304.8 min |
 
 ### coding-implementation
 
 | rank | model | % |
 |---|---|---|
-| 1 | glm-5.3-flash | 93.3% |
-| 2 | qwen3.8-flash | 92.4% |
-| 3 | glm-5.3 | 91.2% |
-| 4 | Qwen3.6-35B (local) | 90.9% |
-| 5 | deepseek-v4-flash | 89.7% |
-| 6 | Qwen3.8-27B (local) | 76.8% |
+| 1 | Ornith-1.5-35B (local) | 94.6% |
+| 2 | glm-5.3-flash | 93.3% |
+| 3 | qwen3.8-flash | 92.4% |
+| 4 | glm-5.3 | 91.2% |
+| 5 | Qwen3.6-35B (local) | 90.9% |
+| 6 | deepseek-v4-flash | 89.7% |
+| 7 | Qwen3.8-27B (local) | 76.8% |
 
 ### coding-bugfix
 
@@ -202,9 +204,10 @@ and will drift; regenerate the tables by running the benchmark yourself.
 | 1 | glm-5.3-flash | 99.2% |
 | 2 | deepseek-v4-flash | 97.7% |
 | 3 | Qwen3.6-35B (local) | 97.5% |
-| 4 | glm-5.3 | 95.9% |
-| 4 | qwen3.8-flash | 95.9% |
-| 6 | Qwen3.8-27B (local) | 82.2% |
+| 4 | Ornith-1.5-35B (local) | 96.1% |
+| 5 | glm-5.3 | 95.9% |
+| 5 | qwen3.8-flash | 95.9% |
+| 7 | Qwen3.8-27B (local) | 82.2% |
 
 ### coding-algorithm
 
@@ -212,21 +215,23 @@ and will drift; regenerate the tables by running the benchmark yourself.
 |---|---|---|
 | 1 | Qwen3.6-35B (local) | 92.3% |
 | 2 | glm-5.3-flash | 90.9% |
-| 3 | deepseek-v4-flash | 89.6% |
-| 4 | glm-5.3 | 88.2% |
-| 5 | qwen3.8-flash | 83.2% |
-| 6 | Qwen3.8-27B (local) | 64.9% |
+| 3 | Ornith-1.5-35B (local) | 90.2% |
+| 4 | deepseek-v4-flash | 89.6% |
+| 5 | glm-5.3 | 88.2% |
+| 6 | qwen3.8-flash | 83.2% |
+| 7 | Qwen3.8-27B (local) | 64.9% |
 
 ### agentic
 
 | rank | model | % |
 |---|---|---|
 | 1 | glm-5.3-flash | 93.8% |
-| 2 | Qwen3.6-35B (local) | 85.3% |
-| 3 | qwen3.8-flash | 82.5% |
-| 4 | glm-5.3 | 81.9% |
-| 5 | deepseek-v4-flash | 79.7% |
-| 6 | Qwen3.8-27B (local) | 69.4% |
+| 2 | Ornith-1.5-35B (local) | 89.1% |
+| 3 | Qwen3.6-35B (local) | 85.3% |
+| 4 | qwen3.8-flash | 82.5% |
+| 5 | glm-5.3 | 81.9% |
+| 6 | deepseek-v4-flash | 79.7% |
+| 7 | Qwen3.8-27B (local) | 69.4% |
 
 ### code-reading
 
@@ -234,10 +239,11 @@ and will drift; regenerate the tables by running the benchmark yourself.
 |---|---|---|
 | 1 | qwen3.8-flash | 55.0% |
 | 2 | glm-5.3-flash | 50.0% |
+| 2 | Ornith-1.5-35B (local) | 50.0% |
 | 2 | Qwen3.6-35B (local) | 50.0% |
 | 2 | glm-5.3 | 50.0% |
 | 2 | Qwen3.8-27B (local) | 50.0% |
-| 6 | deepseek-v4-flash | 45.0% |
+| 7 | deepseek-v4-flash | 45.0% |
 
 ### reasoning
 
@@ -245,10 +251,11 @@ and will drift; regenerate the tables by running the benchmark yourself.
 |---|---|---|
 | 1 | glm-5.3 | 80.0% |
 | 1 | Qwen3.6-35B (local) | 80.0% |
-| 3 | glm-5.3-flash | 76.0% |
-| 3 | qwen3.8-flash | 76.0% |
-| 3 | Qwen3.8-27B (local) | 76.0% |
-| 6 | deepseek-v4-flash | 68.0% |
+| 1 | Ornith-1.5-35B (local) | 80.0% |
+| 4 | glm-5.3-flash | 76.0% |
+| 4 | qwen3.8-flash | 76.0% |
+| 4 | Qwen3.8-27B (local) | 76.0% |
+| 7 | deepseek-v4-flash | 68.0% |
 
 ### math
 
@@ -256,10 +263,11 @@ and will drift; regenerate the tables by running the benchmark yourself.
 |---|---|---|
 | 1 | glm-5.3-flash | 100% |
 | 1 | Qwen3.6-35B (local) | 100% |
-| 3 | glm-5.3 | 93.3% |
-| 3 | qwen3.8-flash | 93.3% |
-| 5 | deepseek-v4-flash | 80.0% |
-| 5 | Qwen3.8-27B (local) | 80.0% |
+| 1 | Ornith-1.5-35B (local) | 100% |
+| 4 | glm-5.3 | 93.3% |
+| 4 | qwen3.8-flash | 93.3% |
+| 6 | deepseek-v4-flash | 80.0% |
+| 6 | Qwen3.8-27B (local) | 80.0% |
 
 ### knowledge
 
@@ -267,8 +275,9 @@ and will drift; regenerate the tables by running the benchmark yourself.
 |---|---|---|
 | 1 | glm-5.3-flash | 70.0% |
 | 1 | glm-5.3 | 70.0% |
-| 3 | qwen3.8-flash | 56.7% |
-| 4 | deepseek-v4-flash | 50.0% |
-| 5 | Qwen3.6-35B (local) | 40.0% |
-| 6 | Qwen3.8-27B (local) | 30.0% |
+| 3 | Ornith-1.5-35B (local) | 60.0% |
+| 4 | qwen3.8-flash | 56.7% |
+| 5 | deepseek-v4-flash | 50.0% |
+| 6 | Qwen3.6-35B (local) | 40.0% |
+| 7 | Qwen3.8-27B (local) | 30.0% |
 

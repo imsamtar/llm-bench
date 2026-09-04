@@ -5,3 +5,4 @@ timestamp,iso,model_id,base_url,total_tasks,total_max,total_score,overall_pct
 2026-09-03T13-55-29,2026-09-03T13:55:29.926Z,glm-5.3,https://opencode.ai/zen/go/v1,306,306,263.38,86.07
 2026-09-03T14-09-43,2026-09-03T14:09:43.010Z,qwen3.8-flash,https://opencode.ai/zen/go/v1,306,306,260.28,85.06
 2026-09-03T14-32-41,2026-09-03T14:32:41.874Z,deepseek-v4-flash-vision-exp,https://opencode.ai/zen/go/v1,306,306,255.16,83.38
+2026-09-04T14-51-54,2026-09-04T14:51:54.831Z,ornith-ai/Ornith-1.5-35B-A3B-MLX-6bit-fp16,http://localhost:8000/v1,306,306,270.25,88.32
